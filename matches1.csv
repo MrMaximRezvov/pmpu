@@ -1,0 +1,1976 @@
+date,home_team,away_team,home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,home_team_score,away_team_score,country,neutral_location,home_team_result
+1993-08-08,Brazil,Mexico,8,14,0,0,1,1,Brazil,False,Draw
+1993-08-15,Australia,Canada,52,46,0,0,2,1,Australia,False,Win
+1993-08-15,Uruguay,Brazil,22,8,0,0,1,1,Uruguay,False,Draw
+1993-08-22,Brazil,Ecuador,8,35,0,0,2,0,Brazil,False,Win
+1993-09-05,Ecuador,Uruguay,35,22,0,0,0,1,Ecuador,False,Lose
+1993-09-08,England,Poland,11,20,0,0,3,0,England,False,Win
+1993-09-19,Brazil,Uruguay,8,22,0,0,2,0,Brazil,False,Win
+1993-09-22,Mexico,Cameroon,14,24,0,0,1,0,USA,True,Win
+1993-09-22,Tunisia,Germany,31,1,0,0,1,1,Tunisia,False,Draw
+1993-09-23,Saudi Arabia,Costa Rica,44,38,0,0,1,2,Saudi Arabia,False,Lose
+1993-09-24,Korea Republic,Australia,36,65,0,0,1,1,Korea Republic,False,Draw
+1993-09-26,Korea Republic,Australia,36,65,0,0,1,0,Korea Republic,False,Win
+1993-09-27,Saudi Arabia,Costa Rica,44,38,0,0,3,2,Saudi Arabia,False,Win
+1993-09-29,Mexico,Poland,16,22,0,0,0,0,USA,True,Draw
+1993-10-13,Germany,Uruguay,5,15,0,0,5,0,Germany,False,Win
+1993-10-13,Netherlands,England,13,5,0,0,2,0,Netherlands,False,Win
+1993-10-13,Portugal,Switzerland,21,10,0,0,1,0,Portugal,False,Win
+1993-10-13,USA,Mexico,26,16,0,0,1,1,USA,False,Draw
+1993-10-15,Saudi Arabia,Japan,44,43,0,0,0,0,Qatar,True,Draw
+1993-10-16,IR Iran,Korea Republic,58,36,0,0,0,3,Qatar,True,Lose
+1993-10-18,Japan,IR Iran,43,58,0,0,1,2,Qatar,True,Lose
+1993-10-22,Korea Republic,Saudi Arabia,37,46,0,0,1,1,Qatar,True,Draw
+1993-10-25,Japan,Korea Republic,44,37,0,0,1,0,Qatar,True,Win
+1993-10-28,Saudi Arabia,IR Iran,46,59,0,0,4,3,Qatar,True,Win
+1993-10-31,Australia,Argentina,61,9,0,0,1,1,Australia,False,Draw
+1993-11-17,Argentina,Australia,9,61,0,0,1,0,Argentina,False,Win
+1993-11-17,Germany,Brazil,4,1,0,0,2,1,Germany,False,Win
+1993-11-17,Poland,Netherlands,23,6,0,0,1,3,Poland,False,Lose
+1993-11-17,Spain,Denmark,7,5,0,0,1,0,Spain,False,Win
+1993-12-15,Argentina,Germany,9,3,0,0,2,1,USA,True,Win
+1993-12-16,Mexico,Brazil,17,4,0,0,0,1,Mexico,False,Lose
+1993-12-18,USA,Germany,27,3,0,0,0,3,USA,False,Lose
+1993-12-22,Mexico,Germany,17,3,0,0,0,0,Mexico,False,Draw
+1993-12-31,Ghana,Tunisia,37,32,0,0,1,1,Ghana,False,Draw
+1994-01-19,Spain,Portugal,5,20,0,0,2,2,Spain,False,Draw
+1994-01-19,Tunisia,Netherlands,32,7,0,0,2,2,Tunisia,False,Draw
+1994-01-22,USA,Switzerland,22,12,0,0,1,1,USA,False,Draw
+1994-01-26,Mexico,Switzerland,16,12,0,0,1,5,USA,True,Lose
+1994-02-09,Spain,Poland,5,28,0,0,1,1,Spain,False,Draw
+1994-03-05,USA,Korea Republic,21,42,0,0,1,0,USA,False,Win
+1994-03-09,England,Denmark,12,4,0,0,1,0,England,False,Win
+1994-03-12,USA,Korea Republic,21,42,0,0,1,1,USA,False,Draw
+1994-03-23,Brazil,Argentina,2,8,0,0,2,0,Brazil,False,Win
+1994-03-23,Spain,Croatia,6,125,0,0,0,2,Spain,False,Lose
+1994-03-31,Ghana,Senegal,31,58,0,0,1,0,Tunisia,True,Win
+1994-04-13,Poland,Saudi Arabia,24,36,0,0,1,0,France,True,Win
+1994-04-18,Tunisia,Saudi Arabia,32,36,0,0,2,0,Tunisia,False,Win
+1994-04-20,Argentina,Morocco,10,26,0,0,3,1,Argentina,False,Win
+1994-05-01,Korea Republic,Cameroon,40,27,0,0,2,2,Korea Republic,False,Draw
+1994-05-03,Korea Republic,Cameroon,40,27,0,0,2,1,Korea Republic,False,Win
+1994-05-22,Japan,Australia,54,44,0,0,1,1,Japan,False,Draw
+1994-05-25,Ecuador,Argentina,47,6,0,0,1,0,Ecuador,False,Win
+1994-05-25,USA,Saudi Arabia,23,35,0,0,0,0,USA,False,Draw
+1994-05-26,Australia,France,44,17,0,0,0,1,Japan,True,Lose
+1994-05-29,Japan,France,54,17,0,0,1,4,Japan,False,Lose
+1994-06-01,Canada,Morocco,58,30,0,0,1,1,Canada,False,Draw
+1994-06-04,Croatia,Argentina,102,6,0,0,0,0,Croatia,False,Draw
+1994-06-04,USA,Mexico,23,13,0,0,1,0,USA,False,Win
+1994-06-05,Canada,Brazil,58,1,0,0,1,1,Canada,False,Draw
+1994-06-05,Ecuador,Korea Republic,47,37,0,0,2,1,USA,True,Win
+1994-06-08,Canada,Germany,58,2,0,0,0,2,Canada,False,Lose
+1994-06-10,Canada,Spain,58,9,0,0,0,2,Canada,False,Lose
+1994-06-12,Canada,Netherlands,58,11,0,0,0,3,Canada,False,Lose
+1994-06-17,Spain,Korea Republic,5,37,0,0,2,2,USA,True,Draw
+1994-06-18,USA,Switzerland,23,12,0,0,1,1,USA,False,Draw
+1994-06-19,Belgium,Morocco,27,28,0,0,1,0,USA,True,Win
+1994-06-20,Netherlands,Saudi Arabia,2,34,0,0,2,1,USA,True,Win
+1994-06-21,Germany,Spain,1,5,0,0,1,1,USA,True,Draw
+1994-06-24,Brazil,Cameroon,3,24,0,0,3,0,USA,True,Win
+1994-06-25,Belgium,Netherlands,27,2,0,0,1,0,USA,True,Win
+1994-06-25,Saudi Arabia,Morocco,34,28,0,0,2,1,USA,True,Win
+1994-06-27,Germany,Korea Republic,1,37,0,0,3,2,USA,True,Win
+1994-06-29,Belgium,Saudi Arabia,27,34,0,0,0,1,USA,True,Lose
+1994-06-29,Morocco,Netherlands,28,2,0,0,1,2,USA,True,Lose
+1994-07-02,Germany,Belgium,1,27,0,0,3,2,USA,True,Win
+1994-07-02,Spain,Switzerland,5,12,0,0,3,0,USA,True,Win
+1994-07-04,USA,Brazil,23,3,0,0,0,1,USA,False,Lose
+1994-07-08,Japan,Ghana,52,26,0,0,3,2,Japan,False,Win
+1994-07-09,Netherlands,Brazil,2,3,0,0,2,3,USA,True,Lose
+1994-07-14,Japan,Ghana,52,26,0,0,2,1,Japan,False,Win
+1994-09-07,England,USA,18,22,0,0,2,0,England,False,Win
+1994-09-27,Japan,Australia,41,52,0,0,0,0,Japan,False,Draw
+1994-10-12,Denmark,Belgium,13,19,0,0,3,1,Denmark,False,Win
+1994-10-19,Saudi Arabia,USA,29,22,0,0,2,1,Saudi Arabia,False,Win
+1994-11-07,Morocco,Cameroon,33,29,0,0,1,1,Morocco,False,Draw
+1994-11-12,Qatar,Saudi Arabia,60,27,0,0,1,2,United Arab Emirates,True,Lose
+1994-11-16,Poland,France,36,19,0,0,0,0,Poland,False,Draw
+1994-11-16,Spain,Denmark,6,13,0,0,3,0,Spain,False,Win
+1994-11-30,Cameroon,Ghana,28,26,0,0,0,1,South Africa,True,Lose
+1994-12-08,Saudi Arabia,Poland,27,33,0,0,0,2,Saudi Arabia,False,Lose
+1994-12-10,Saudi Arabia,Poland,27,33,0,0,1,2,Saudi Arabia,False,Lose
+1994-12-17,Belgium,Spain,22,5,0,0,1,4,Belgium,False,Lose
+1994-12-17,Saudi Arabia,Costa Rica,27,63,0,0,1,3,Saudi Arabia,False,Lose
+1995-01-06,Saudi Arabia,Mexico,27,15,0,0,0,2,Saudi Arabia,False,Lose
+1995-01-07,Senegal,Tunisia,50,30,0,0,0,0,Senegal,False,Draw
+1995-01-08,Japan,Argentina,36,10,0,0,1,5,Saudi Arabia,True,Lose
+1995-01-08,Saudi Arabia,Denmark,27,14,0,0,0,2,Saudi Arabia,False,Lose
+1995-01-10,Denmark,Mexico,14,15,0,0,1,1,Saudi Arabia,True,Draw
+1995-01-13,Denmark,Argentina,14,10,0,0,2,0,Saudi Arabia,True,Win
+1995-01-18,Netherlands,France,6,19,0,0,0,1,Netherlands,False,Lose
+1995-01-18,Spain,Uruguay,2,37,0,0,2,2,Spain,False,Draw
+1995-01-26,Canada,Portugal,63,20,0,0,1,1,Canada,False,Draw
+1995-02-01,Mexico,Uruguay,15,37,0,0,1,0,USA,True,Win
+1995-02-15,Australia,Japan,58,36,0,0,2,1,Australia,False,Win
+1995-02-21,Japan,Korea Republic,37,33,0,0,1,1,Hong Kong,True,Draw
+1995-02-22,Netherlands,Portugal,8,19,0,0,0,1,Netherlands,False,Lose
+1995-02-22,Spain,Germany,2,5,0,0,0,0,Spain,False,Draw
+1995-02-26,Japan,Korea Republic,37,33,0,0,2,2,Hong Kong,True,Draw
+1995-03-01,Morocco,Senegal,35,51,0,0,2,0,Morocco,False,Win
+1995-03-25,USA,Uruguay,22,36,0,0,2,2,USA,False,Draw
+1995-03-29,England,Uruguay,20,36,0,0,0,0,England,False,Draw
+1995-03-29,Spain,Belgium,2,23,0,0,1,1,Spain,False,Draw
+1995-04-22,Belgium,USA,21,22,0,0,1,0,Belgium,False,Win
+1995-04-26,Germany,Wales,4,49,0,0,1,1,Germany,False,Draw
+1995-05-28,Japan,Ecuador,35,62,0,0,3,0,Japan,False,Win
+1995-05-28,USA,Costa Rica,27,72,0,0,1,2,USA,False,Lose
+1995-06-03,England,Japan,21,35,0,0,2,1,England,False,Win
+1995-06-05,Korea Republic,Costa Rica,37,72,0,0,1,0,Korea Republic,False,Win
+1995-06-06,Brazil,Japan,1,35,0,0,3,0,England,True,Win
+1995-06-10,Costa Rica,Ecuador,72,62,0,0,1,2,Korea Republic,True,Lose
+1995-06-11,England,Brazil,21,1,0,0,1,3,England,False,Lose
+1995-06-18,Australia,Ghana,58,27,0,0,2,1,Australia,False,Win
+1995-06-18,USA,Mexico,34,7,0,0,4,0,USA,False,Win
+1995-06-21,Australia,Ghana,58,27,0,0,1,0,Australia,False,Win
+1995-06-23,Switzerland,Germany,14,5,0,0,1,2,Switzerland,False,Lose
+1995-06-24,Australia,Ghana,58,27,0,0,0,1,Australia,False,Lose
+1995-06-30,Argentina,Australia,10,58,0,0,2,0,Argentina,False,Win
+1995-07-07,Brazil,Ecuador,1,76,0,0,1,0,Uruguay,True,Win
+1995-07-13,Uruguay,Mexico,36,7,0,0,1,1,Uruguay,False,Draw
+1995-07-14,Argentina,USA,10,34,0,0,0,3,Uruguay,True,Lose
+1995-07-15,Tunisia,Senegal,24,43,0,0,4,0,Tunisia,False,Win
+1995-07-17,Brazil,Argentina,1,10,0,0,2,2,Uruguay,True,Draw
+1995-07-17,USA,Mexico,34,7,0,0,0,0,Uruguay,True,Draw
+1995-07-20,USA,Brazil,34,1,0,0,0,1,Uruguay,True,Lose
+1995-07-23,Uruguay,Brazil,36,1,0,0,1,1,Uruguay,False,Draw
+1995-08-06,Japan,Costa Rica,36,71,0,0,3,0,Japan,False,Win
+1995-08-09,Japan,Brazil,36,1,0,0,1,5,Japan,False,Lose
+1995-08-12,Korea Republic,Brazil,39,1,0,0,0,1,Korea Republic,False,Lose
+1995-08-16,France,Poland,18,32,0,0,1,1,France,False,Draw
+1995-08-23,Belgium,Germany,29,4,0,0,1,2,Belgium,False,Lose
+1995-09-06,Belgium,Denmark,29,7,0,0,1,3,Belgium,False,Lose
+1995-09-20,Spain,Argentina,6,9,0,0,2,1,Spain,False,Win
+1995-10-08,USA,Saudi Arabia,22,29,0,0,4,3,USA,False,Win
+1995-10-11,Brazil,Uruguay,1,36,0,0,2,0,Brazil,False,Win
+1995-10-11,Denmark,Spain,13,6,0,0,1,1,Denmark,False,Draw
+1995-10-11,Mexico,Saudi Arabia,16,29,0,0,2,1,USA,True,Win
+1995-10-11,Wales,Germany,34,4,0,0,1,2,Wales,False,Lose
+1995-10-24,Japan,Saudi Arabia,34,39,0,0,2,1,Japan,False,Win
+1995-10-28,Japan,Saudi Arabia,34,39,0,0,2,1,Japan,False,Win
+1995-10-31,Korea Republic,Saudi Arabia,48,39,0,0,1,1,Korea Republic,False,Draw
+1995-11-08,Argentina,Brazil,7,1,0,0,0,1,Argentina,False,Lose
+1995-11-15,England,Switzerland,22,9,0,0,3,1,England,False,Win
+1995-12-12,England,Portugal,20,16,0,0,1,1,England,False,Draw
+1996-01-03,Morocco,Tunisia,38,22,0,0,3,1,Morocco,False,Win
+1996-01-05,Saudi Arabia,Ghana,54,29,0,0,1,1,Saudi Arabia,False,Draw
+1996-01-12,Brazil,Canada,1,65,0,0,4,1,USA,True,Win
+1996-01-18,USA,Brazil,19,1,0,0,0,1,USA,False,Lose
+1996-01-19,Ghana,Tunisia,29,22,0,0,2,1,South Africa,True,Win
+1996-01-21,Mexico,Brazil,12,1,0,0,2,0,USA,True,Win
+1996-02-10,Australia,Japan,54,30,0,0,1,4,Australia,False,Lose
+1996-02-14,Australia,Japan,54,30,0,0,3,0,Australia,False,Win
+1996-02-18,Qatar,Ecuador,84,57,0,0,1,1,Qatar,False,Draw
+1996-02-19,Japan,Poland,30,35,0,0,5,0,Hong Kong,True,Win
+1996-02-21,Portugal,Germany,20,3,0,0,1,2,Portugal,False,Lose
+1996-02-25,Qatar,Ecuador,85,54,0,0,1,2,Qatar,False,Lose
+1996-02-28,Croatia,Poland,43,37,0,0,2,1,Croatia,False,Win
+1996-03-13,Croatia,Korea Republic,43,62,0,0,3,0,Croatia,False,Win
+1996-03-23,Korea Republic,Morocco,62,26,0,0,2,2,United Arab Emirates,True,Draw
+1996-03-27,Belgium,France,28,7,0,0,0,2,Belgium,False,Lose
+1996-03-27,Brazil,Ghana,1,16,0,0,8,2,Brazil,False,Win
+1996-03-27,Germany,Denmark,3,9,0,0,2,0,Germany,False,Win
+1996-04-24,England,Croatia,23,28,0,0,0,0,England,False,Draw
+1996-04-24,Netherlands,Germany,11,2,0,0,0,1,Netherlands,False,Lose
+1996-04-24,Switzerland,Wales,26,66,0,0,2,0,Switzerland,False,Win
+1996-05-17,IR Iran,Qatar,118,84,0,0,2,0,IR Iran,False,Win
+1996-05-26,Tunisia,Senegal,22,58,0,0,2,0,Tunisia,False,Win
+1996-05-29,Japan,Mexico,26,12,0,0,3,2,Japan,False,Win
+1996-06-01,Germany,France,2,5,0,0,0,1,Germany,False,Lose
+1996-06-01,Qatar,IR Iran,81,122,0,0,0,1,Qatar,False,Lose
+1996-06-02,Denmark,Ghana,11,17,0,0,1,0,Denmark,False,Win
+1996-06-02,Ecuador,Argentina,38,8,0,0,2,0,Ecuador,False,Win
+1996-06-05,Canada,Costa Rica,65,87,0,0,0,1,Canada,False,Lose
+1996-06-08,England,Switzerland,24,21,0,0,1,1,England,False,Draw
+1996-06-09,Denmark,Portugal,11,18,0,0,1,1,England,True,Draw
+1996-06-13,Switzerland,Netherlands,21,13,0,0,0,2,England,True,Lose
+1996-06-15,France,Spain,5,6,0,0,1,1,England,True,Draw
+1996-06-16,Croatia,Denmark,27,11,0,0,3,0,England,True,Win
+1996-06-16,USA,Mexico,14,12,0,0,2,2,USA,False,Draw
+1996-06-18,England,Netherlands,24,13,0,0,4,1,England,False,Win
+1996-06-19,Croatia,Portugal,27,18,0,0,0,3,England,True,Lose
+1996-06-22,England,Spain,24,6,0,0,0,0,England,False,Draw
+1996-06-22,France,Netherlands,5,13,0,0,0,0,England,True,Draw
+1996-06-23,Germany,Croatia,2,27,0,0,2,1,England,True,Win
+1996-06-26,England,Germany,24,2,0,0,1,1,England,False,Draw
+1996-08-16,Ecuador,Costa Rica,32,93,0,0,1,1,Ecuador,False,Draw
+1996-08-25,Japan,Uruguay,25,38,0,0,5,3,Japan,False,Win
+1996-08-31,France,Mexico,3,14,0,0,2,0,France,False,Win
+1996-08-31,Netherlands,Brazil,6,1,0,0,2,2,Netherlands,False,Draw
+1996-09-04,Poland,Germany,55,2,0,0,0,2,Poland,False,Lose
+1996-09-14,Australia,Ghana,61,19,0,0,2,0,South Africa,True,Win
+1996-10-05,Wales,Netherlands,68,7,0,0,1,3,Wales,False,Lose
+1996-10-09,England,Poland,12,56,0,0,2,1,England,False,Win
+1996-10-09,Saudi Arabia,Australia,42,52,0,0,0,0,Saudi Arabia,False,Draw
+1996-10-13,Japan,Tunisia,20,24,0,0,1,0,Japan,False,Win
+1996-10-19,Qatar,Saudi Arabia,84,42,0,0,2,2,Oman,True,Draw
+1996-10-23,Mexico,Ecuador,15,32,0,0,0,1,USA,True,Lose
+1996-11-09,Denmark,France,6,3,0,0,1,0,Denmark,False,Win
+1996-11-09,Netherlands,Wales,9,75,0,0,7,1,Netherlands,False,Win
+1996-11-13,Brazil,Cameroon,1,47,0,0,2,0,Brazil,False,Win
+1996-12-01,Costa Rica,USA,83,16,0,0,2,1,Costa Rica,False,Win
+1996-12-11,Morocco,Croatia,27,24,0,0,2,2,Morocco,False,Draw
+1996-12-11,Saudi Arabia,IR Iran,40,77,0,0,0,3,United Arab Emirates,True,Lose
+1996-12-14,Belgium,Netherlands,42,10,0,0,0,3,Belgium,False,Lose
+1996-12-14,Portugal,Germany,15,2,0,0,0,0,Portugal,False,Draw
+1996-12-14,USA,Costa Rica,16,83,0,0,2,1,USA,False,Win
+1996-12-16,Korea Republic,IR Iran,46,77,0,0,2,6,United Arab Emirates,True,Lose
+1996-12-19,IR Iran,Saudi Arabia,83,37,0,0,0,0,United Arab Emirates,True,Draw
+1997-01-12,Ghana,Morocco,25,27,0,0,2,2,Ghana,False,Draw
+1997-01-12,Uruguay,Argentina,43,22,0,0,0,0,Uruguay,False,Draw
+1997-01-19,USA,Mexico,18,11,0,0,0,2,USA,False,Lose
+1997-01-22,Australia,Korea Republic,50,44,0,0,2,1,Australia,False,Win
+1997-01-22,Portugal,France,13,3,0,0,0,2,Portugal,False,Lose
+1997-02-05,Mexico,Ecuador,11,33,0,0,3,1,Mexico,False,Win
+1997-02-12,Ecuador,Uruguay,33,43,0,0,4,0,Ecuador,False,Win
+1997-02-26,Brazil,Poland,1,53,0,0,4,2,Brazil,False,Win
+1997-02-26,France,Netherlands,3,9,0,0,2,1,France,False,Win
+1997-03-02,Mexico,Canada,11,48,0,0,4,0,Mexico,False,Win
+1997-03-09,Costa Rica,Cameroon,66,59,0,0,5,0,Costa Rica,False,Win
+1997-03-16,Costa Rica,Mexico,66,11,0,0,0,0,Costa Rica,False,Draw
+1997-03-16,USA,Canada,22,48,0,0,3,0,USA,False,Win
+1997-03-23,Costa Rica,USA,66,22,0,0,3,2,Costa Rica,False,Win
+1997-03-29,Croatia,Denmark,25,4,0,0,1,1,Croatia,False,Draw
+1997-03-29,England,Mexico,12,11,0,0,2,0,England,False,Win
+1997-03-29,Wales,Belgium,82,44,0,0,1,2,Wales,False,Lose
+1997-04-20,USA,Mexico,21,12,0,0,2,2,USA,False,Draw
+1997-04-30,Argentina,Ecuador,19,35,0,0,2,1,Argentina,False,Win
+1997-04-30,Brazil,Mexico,1,12,0,0,4,0,USA,True,Win
+1997-05-21,Japan,Korea Republic,18,36,0,0,1,1,Japan,False,Draw
+1997-05-31,Poland,England,57,13,0,0,0,2,Poland,False,Lose
+1997-06-01,Canada,Costa Rica,52,53,0,0,1,0,Canada,False,Win
+1997-06-03,France,Brazil,4,1,0,0,1,1,France,False,Draw
+1997-06-07,France,England,4,13,0,0,0,1,France,False,Lose
+1997-06-07,Morocco,Ghana,19,35,0,0,1,0,Morocco,False,Win
+1997-06-08,Japan,Croatia,18,28,0,0,4,3,Japan,False,Win
+1997-06-10,England,Brazil,13,1,0,0,0,1,France,True,Lose
+1997-06-11,Argentina,Ecuador,21,40,0,0,0,0,Bolivia,True,Draw
+1997-06-13,Brazil,Costa Rica,1,53,0,0,5,0,Bolivia,True,Win
+1997-06-14,Korea Republic,Ghana,36,35,0,0,3,0,Korea Republic,False,Win
+1997-06-16,Brazil,Mexico,1,12,0,0,3,2,Bolivia,True,Win
+1997-06-19,Mexico,Costa Rica,12,53,0,0,1,1,Bolivia,True,Draw
+1997-06-22,Ecuador,Mexico,38,12,0,0,1,1,Bolivia,True,Draw
+1997-07-27,Morocco,Senegal,15,65,0,0,3,0,Morocco,False,Win
+1997-08-07,USA,Ecuador,26,30,0,0,0,1,USA,False,Lose
+1997-08-10,Korea Republic,Brazil,34,1,0,0,1,2,Korea Republic,False,Lose
+1997-08-13,Japan,Brazil,17,1,0,0,0,3,Japan,False,Lose
+1997-08-17,Canada,IR Iran,47,57,0,0,0,1,Canada,False,Lose
+1997-09-06,Germany,Portugal,4,30,0,0,1,1,Germany,False,Draw
+1997-09-06,Netherlands,Belgium,6,38,0,0,3,1,Netherlands,False,Win
+1997-09-07,USA,Costa Rica,28,56,0,0,1,0,USA,False,Win
+1997-09-10,Brazil,Ecuador,1,29,0,0,4,2,Brazil,False,Win
+1997-09-10,Denmark,Croatia,3,33,0,0,3,1,Denmark,False,Win
+1997-09-19,IR Iran,Saudi Arabia,53,38,0,0,1,1,IR Iran,False,Draw
+1997-09-28,Japan,Korea Republic,18,35,0,0,1,2,Japan,False,Lose
+1997-10-03,IR Iran,Qatar,53,85,0,0,3,0,IR Iran,False,Win
+1997-10-09,Brazil,Morocco,1,15,0,0,2,0,Brazil,False,Win
+1997-10-11,Belgium,Wales,48,98,0,0,3,2,Belgium,False,Win
+1997-10-11,Saudi Arabia,Qatar,38,85,0,0,1,0,Saudi Arabia,False,Win
+1997-10-12,Argentina,Uruguay,10,47,0,0,0,0,Argentina,False,Draw
+1997-10-12,Canada,Mexico,59,11,0,0,2,2,Canada,False,Draw
+1997-10-24,Saudi Arabia,IR Iran,37,49,0,0,1,0,Saudi Arabia,False,Win
+1997-11-01,Korea Republic,Japan,34,20,0,0,0,2,Korea Republic,False,Lose
+1997-11-02,Mexico,USA,10,35,0,0,0,0,Mexico,False,Draw
+1997-11-07,Qatar,IR Iran,96,49,0,0,2,0,Qatar,False,Win
+1997-11-09,Canada,USA,62,35,0,0,0,3,Canada,False,Lose
+1997-11-09,Mexico,Costa Rica,10,56,0,0,3,3,Mexico,False,Draw
+1997-11-11,Brazil,Wales,1,98,0,0,3,0,Brazil,False,Win
+1997-11-12,Qatar,Saudi Arabia,96,37,0,0,0,1,Qatar,False,Lose
+1997-11-15,England,Cameroon,7,44,0,0,2,0,England,False,Win
+1997-11-16,Costa Rica,Canada,56,62,0,0,3,1,Costa Rica,False,Win
+1997-11-16,Japan,IR Iran,20,49,0,0,3,2,Malaysia,True,Win
+1997-11-16,Uruguay,Ecuador,52,31,0,0,5,3,Uruguay,False,Win
+1997-11-22,IR Iran,Australia,50,32,0,0,1,1,IR Iran,False,Draw
+1997-11-29,Australia,IR Iran,32,50,0,0,2,2,Australia,False,Draw
+1997-12-12,Mexico,Australia,11,32,0,0,1,3,Saudi Arabia,True,Lose
+1997-12-12,Saudi Arabia,Brazil,34,1,0,0,0,3,Saudi Arabia,False,Lose
+1997-12-14,Australia,Brazil,32,1,0,0,0,0,Saudi Arabia,True,Draw
+1997-12-14,Saudi Arabia,Mexico,34,11,0,0,0,5,Saudi Arabia,False,Lose
+1997-12-16,Brazil,Mexico,1,11,0,0,3,2,Saudi Arabia,True,Win
+1997-12-16,Saudi Arabia,Australia,34,32,0,0,1,0,Saudi Arabia,False,Win
+1997-12-19,Uruguay,Australia,43,32,0,0,0,1,Saudi Arabia,True,Lose
+1997-12-21,Brazil,Australia,1,32,0,0,6,0,Saudi Arabia,True,Win
+1998-01-28,France,Spain,6,11,0,0,1,0,France,False,Win
+1998-02-07,USA,Costa Rica,26,51,0,0,2,1,USA,False,Win
+1998-02-09,Ghana,Tunisia,57,23,0,0,2,0,Burkina Faso,True,Win
+1998-02-10,USA,Brazil,26,1,0,0,1,0,USA,False,Win
+1998-02-11,Australia,Korea Republic,35,27,0,0,1,0,Australia,False,Win
+1998-02-15,Australia,Japan,35,14,0,0,0,3,Australia,False,Lose
+1998-02-15,USA,Mexico,26,5,0,0,0,1,USA,False,Lose
+1998-02-21,USA,Netherlands,12,25,0,0,0,2,USA,False,Lose
+1998-02-22,Saudi Arabia,Germany,32,2,0,0,0,3,Saudi Arabia,False,Lose
+1998-02-24,Mexico,Netherlands,4,25,0,0,2,3,USA,True,Lose
+1998-02-25,Belgium,USA,41,12,0,0,2,0,Belgium,False,Win
+1998-03-01,Japan,Korea Republic,9,20,0,0,2,1,Japan,False,Win
+1998-03-25,Germany,Brazil,2,1,0,0,1,2,Germany,False,Lose
+1998-03-25,Switzerland,England,69,5,0,0,1,1,Switzerland,False,Draw
+1998-04-01,Korea Republic,Japan,24,9,0,0,2,1,Korea Republic,False,Win
+1998-04-22,Croatia,Poland,23,55,0,0,4,1,Croatia,False,Win
+1998-04-22,England,Portugal,5,39,0,0,3,0,England,False,Win
+1998-04-29,Brazil,Argentina,1,7,0,0,0,1,Brazil,False,Lose
+1998-05-23,England,Saudi Arabia,5,34,0,0,0,0,England,False,Draw
+1998-05-27,Belgium,France,36,18,0,0,0,1,Morocco,True,Lose
+1998-05-27,Morocco,England,13,5,0,0,0,1,Morocco,False,Lose
+1998-05-27,Netherlands,Cameroon,25,49,0,0,0,0,Netherlands,False,Draw
+1998-05-29,Belgium,England,36,5,0,0,0,0,Morocco,True,Draw
+1998-05-29,Morocco,France,13,18,0,0,2,2,Morocco,False,Draw
+1998-05-31,Japan,Mexico,12,4,0,0,1,2,Switzerland,True,Lose
+1998-06-03,Croatia,IR Iran,19,42,0,0,2,0,Croatia,False,Win
+1998-06-03,Saudi Arabia,Mexico,34,4,0,0,0,0,France,True,Draw
+1998-06-05,Denmark,Cameroon,27,49,0,0,1,2,Denmark,False,Lose
+1998-06-06,Croatia,Australia,19,32,0,0,7,0,Croatia,False,Win
+1998-06-06,Tunisia,Wales,21,103,0,0,4,0,Tunisia,False,Win
+1998-06-12,Saudi Arabia,Denmark,34,27,0,0,0,1,France,True,Lose
+1998-06-13,Korea Republic,Mexico,20,4,0,0,1,3,France,True,Lose
+1998-06-13,Netherlands,Belgium,25,36,0,0,0,0,France,True,Draw
+1998-06-14,Argentina,Japan,6,12,0,0,1,0,France,True,Win
+1998-06-15,England,Tunisia,5,21,0,0,2,0,France,True,Win
+1998-06-15,Germany,USA,2,11,0,0,2,0,France,True,Win
+1998-06-16,Brazil,Morocco,1,13,0,0,3,0,France,True,Win
+1998-06-18,France,Saudi Arabia,18,34,0,0,4,0,France,False,Win
+1998-06-20,Belgium,Mexico,36,4,0,0,2,2,France,True,Draw
+1998-06-20,Japan,Croatia,12,19,0,0,0,1,France,True,Lose
+1998-06-20,Netherlands,Korea Republic,25,20,0,0,5,0,France,True,Win
+1998-06-21,USA,IR Iran,11,42,0,0,1,2,France,True,Lose
+1998-06-24,France,Denmark,18,27,0,0,2,1,France,False,Win
+1998-06-25,Belgium,Korea Republic,36,20,0,0,1,1,France,True,Draw
+1998-06-25,Germany,IR Iran,2,42,0,0,2,0,France,True,Win
+1998-06-25,Netherlands,Mexico,25,4,0,0,2,2,France,True,Draw
+1998-06-26,Argentina,Croatia,6,19,0,0,1,0,France,True,Win
+1998-06-29,Germany,Mexico,2,4,0,0,2,1,France,True,Win
+1998-06-30,Argentina,England,6,5,0,0,2,2,France,True,Draw
+1998-07-03,Brazil,Denmark,1,27,0,0,3,2,France,True,Win
+1998-07-04,Germany,Croatia,2,19,0,0,0,3,France,True,Lose
+1998-07-04,Netherlands,Argentina,25,6,0,0,2,1,France,True,Win
+1998-07-07,Brazil,Netherlands,1,25,0,0,1,1,France,True,Draw
+1998-07-08,France,Croatia,18,19,0,0,2,1,France,False,Win
+1998-07-11,Netherlands,Croatia,25,19,0,0,1,2,France,True,Lose
+1998-07-12,France,Brazil,18,1,0,0,3,0,France,False,Win
+1998-09-02,Morocco,Senegal,16,73,0,0,2,0,Morocco,False,Win
+1998-09-17,Saudi Arabia,Senegal,32,80,0,0,3,2,Saudi Arabia,False,Win
+1998-10-01,Qatar,Saudi Arabia,75,32,0,0,1,3,Qatar,False,Lose
+1998-10-04,Cameroon,Ghana,37,60,0,0,1,3,Cameroon,False,Lose
+1998-10-10,Denmark,Wales,18,107,0,0,1,2,Denmark,False,Lose
+1998-10-13,Netherlands,Ghana,9,60,0,0,0,0,Netherlands,False,Draw
+1998-10-14,Brazil,Ecuador,1,51,0,0,5,1,USA,True,Win
+1998-10-14,Switzerland,Denmark,77,18,0,0,1,1,Switzerland,False,Draw
+1998-11-06,USA,Australia,17,33,0,0,0,0,USA,False,Draw
+1998-11-11,Qatar,Saudi Arabia,56,30,0,0,0,0,Bahrain,True,Draw
+1998-11-18,Germany,Netherlands,3,9,0,0,1,1,Germany,False,Draw
+1999-01-20,France,Morocco,2,13,0,0,1,0,France,False,Win
+1999-01-28,Costa Rica,Ecuador,69,61,0,0,0,0,Costa Rica,False,Draw
+1999-02-06,USA,Germany,23,5,0,0,3,0,USA,False,Win
+1999-02-10,Croatia,Denmark,3,15,0,0,0,1,Croatia,False,Lose
+1999-02-10,England,France,11,2,0,0,0,2,England,False,Lose
+1999-02-10,Mexico,Argentina,12,6,0,0,0,1,USA,True,Lose
+1999-02-10,Portugal,Netherlands,17,8,0,0,0,0,France,True,Draw
+1999-03-13,USA,Mexico,23,12,0,0,1,2,USA,False,Lose
+1999-03-27,England,Poland,11,27,0,0,3,1,England,False,Win
+1999-03-28,Korea Republic,Brazil,36,1,0,0,1,0,Korea Republic,False,Win
+1999-03-31,Japan,Brazil,37,1,0,0,0,2,Japan,False,Lose
+1999-03-31,Netherlands,Argentina,8,6,0,0,1,1,Netherlands,False,Draw
+1999-03-31,Switzerland,Wales,63,77,0,0,2,0,Switzerland,False,Win
+1999-04-14,Mexico,Ecuador,12,55,0,0,0,0,Mexico,False,Draw
+1999-04-28,Netherlands,Morocco,9,19,0,0,1,2,Netherlands,False,Lose
+1999-05-05,Spain,Croatia,8,6,0,0,3,1,Spain,False,Win
+1999-06-02,Ecuador,IR Iran,55,47,0,0,1,1,Canada,True,Draw
+1999-06-03,Japan,Belgium,41,27,0,0,0,0,Japan,False,Draw
+1999-06-04,Canada,IR Iran,93,47,0,0,0,1,Canada,False,Lose
+1999-06-05,Brazil,Netherlands,1,9,0,0,2,2,Brazil,False,Draw
+1999-06-05,Korea Republic,Belgium,34,27,0,0,1,2,Korea Republic,False,Lose
+1999-06-06,Canada,Ecuador,93,55,0,0,1,2,Canada,False,Lose
+1999-06-08,Brazil,Netherlands,1,9,0,0,3,1,Brazil,False,Win
+1999-06-09,Mexico,Argentina,13,7,0,0,2,2,USA,True,Draw
+1999-06-09,Wales,Denmark,82,18,0,0,0,2,England,True,Lose
+1999-06-12,Korea Republic,Mexico,34,13,0,0,1,1,Korea Republic,False,Draw
+1999-06-13,USA,Argentina,24,7,0,0,1,0,USA,False,Win
+1999-06-16,Brazil,Poland,1,23,0,0,2,0,Thailand,True,Win
+1999-06-16,Croatia,Mexico,7,14,0,0,2,1,Korea Republic,True,Win
+1999-06-19,Korea Republic,Croatia,38,7,0,0,1,1,Korea Republic,False,Draw
+1999-07-01,Argentina,Ecuador,8,49,0,0,3,1,Paraguay,True,Win
+1999-07-03,Brazil,Mexico,1,14,0,0,2,1,Paraguay,True,Win
+1999-07-04,Uruguay,Ecuador,74,49,0,0,2,1,Paraguay,True,Win
+1999-07-07,Uruguay,Argentina,74,8,0,0,0,2,Paraguay,True,Lose
+1999-07-09,Canada,Saudi Arabia,95,40,0,0,0,2,USA,True,Lose
+1999-07-11,Brazil,Argentina,1,8,0,0,2,1,Paraguay,True,Win
+1999-07-14,Mexico,Brazil,14,1,0,0,0,2,Paraguay,True,Lose
+1999-07-17,Costa Rica,Saudi Arabia,67,40,0,0,1,0,USA,True,Win
+1999-07-18,Brazil,Uruguay,1,74,0,0,3,0,Paraguay,True,Win
+1999-07-24,Brazil,Germany,1,5,0,0,4,0,Mexico,True,Win
+1999-07-25,Mexico,Saudi Arabia,11,40,0,0,5,1,Mexico,False,Win
+1999-07-28,Brazil,USA,1,30,0,0,1,0,Mexico,True,Win
+1999-07-30,USA,Germany,30,5,0,0,2,0,Mexico,True,Win
+1999-08-01,Brazil,Saudi Arabia,1,40,0,0,8,2,Mexico,True,Win
+1999-08-01,Mexico,USA,11,30,0,0,1,0,Mexico,False,Win
+1999-08-03,USA,Saudi Arabia,30,40,0,0,2,0,Mexico,True,Win
+1999-08-04,Mexico,Brazil,11,1,0,0,4,3,Mexico,False,Win
+1999-08-18,Denmark,Netherlands,17,13,0,0,0,0,Denmark,False,Draw
+1999-08-18,Poland,Spain,27,7,0,0,1,2,Poland,False,Lose
+1999-08-18,Uruguay,Costa Rica,43,68,0,0,5,4,Uruguay,False,Win
+1999-09-04,Argentina,Brazil,6,1,0,0,2,0,Argentina,False,Win
+1999-09-04,Denmark,Switzerland,17,54,0,0,2,1,Denmark,False,Win
+1999-09-04,Netherlands,Belgium,13,33,0,0,5,5,Netherlands,False,Draw
+1999-09-07,Belgium,Morocco,33,19,0,0,4,0,Belgium,False,Win
+1999-09-07,Brazil,Argentina,1,6,0,0,4,2,Brazil,False,Win
+1999-09-08,Japan,IR Iran,46,51,0,0,1,1,Japan,False,Draw
+1999-09-08,Poland,England,27,14,0,0,0,0,Poland,False,Draw
+1999-10-09,Netherlands,Brazil,14,1,0,0,2,2,Netherlands,False,Draw
+1999-10-09,Wales,Switzerland,78,53,0,0,0,2,Wales,False,Lose
+1999-10-10,Denmark,IR Iran,16,50,0,0,0,0,Denmark,False,Draw
+1999-10-10,England,Belgium,12,32,0,0,2,1,England,False,Win
+1999-10-12,Uruguay,Ecuador,41,60,0,0,0,0,Uruguay,False,Draw
+1999-10-27,Mexico,Ecuador,11,61,0,0,0,0,USA,True,Draw
+1999-11-13,France,Croatia,3,6,0,0,3,0,France,False,Win
+1999-11-13,Spain,Brazil,4,1,0,0,0,0,Spain,False,Draw
+1999-11-17,Morocco,USA,24,21,0,0,2,1,Morocco,False,Win
+1999-11-17,Spain,Argentina,4,7,0,0,0,2,Spain,False,Lose
+1999-12-21,Morocco,Senegal,24,83,0,0,0,0,Morocco,False,Draw
+1999-12-22,Tunisia,Ghana,31,48,0,0,2,0,Tunisia,False,Win
+2000-01-09,Mexico,IR Iran,10,49,0,0,2,1,USA,True,Win
+2000-01-13,Senegal,Cameroon,79,58,0,0,0,0,Senegal,False,Draw
+2000-01-16,USA,IR Iran,22,49,0,0,1,1,USA,False,Draw
+2000-01-18,Ghana,Tunisia,48,31,0,0,2,0,Ghana,False,Win
+2000-01-22,Ghana,Cameroon,50,57,0,0,1,1,Ghana,False,Draw
+2000-01-26,Spain,Poland,4,32,0,0,3,0,Spain,False,Win
+2000-01-29,Tunisia,Morocco,28,25,0,0,0,0,Nigeria,True,Draw
+2000-02-05,Japan,Mexico,58,10,0,0,0,1,Hong Kong,True,Lose
+2000-02-10,Cameroon,Tunisia,57,28,0,0,3,0,Ghana,True,Win
+2000-02-13,Costa Rica,Canada,64,80,0,0,2,2,USA,True,Draw
+2000-02-15,Canada,Korea Republic,80,52,0,0,0,0,USA,True,Draw
+2000-02-17,Korea Republic,Costa Rica,48,63,0,0,2,2,USA,True,Draw
+2000-02-20,Mexico,Canada,10,85,0,0,1,2,USA,True,Lose
+2000-02-23,Belgium,Portugal,33,15,0,0,1,1,Belgium,False,Draw
+2000-02-23,Croatia,Spain,9,4,0,0,0,0,Croatia,False,Draw
+2000-02-23,England,Argentina,11,6,0,0,0,0,England,False,Draw
+2000-02-23,France,Poland,3,32,0,0,1,0,France,False,Win
+2000-02-23,Netherlands,Germany,19,5,0,0,2,1,Netherlands,False,Win
+2000-02-23,Qatar,Wales,106,99,0,0,0,1,Qatar,False,Lose
+2000-03-12,USA,Tunisia,22,27,0,0,1,1,USA,False,Draw
+2000-03-29,Belgium,Netherlands,33,19,0,0,2,2,Belgium,False,Draw
+2000-03-29,Croatia,Germany,9,5,0,0,1,1,Croatia,False,Draw
+2000-03-29,Portugal,Denmark,15,12,0,0,2,1,Portugal,False,Win
+2000-04-26,Brazil,Ecuador,1,71,0,0,3,2,Brazil,False,Win
+2000-04-26,Germany,Switzerland,5,55,0,0,1,1,Germany,False,Draw
+2000-04-26,Korea Republic,Japan,43,50,0,0,1,0,Korea Republic,False,Win
+2000-05-23,Wales,Brazil,101,1,0,0,0,3,Wales,False,Lose
+2000-05-27,England,Brazil,12,1,0,0,1,1,England,False,Draw
+2000-05-28,Croatia,France,7,3,0,0,0,2,Croatia,False,Lose
+2000-06-02,Portugal,Wales,15,101,0,0,3,0,Portugal,False,Win
+2000-06-03,Denmark,Belgium,13,30,0,0,2,2,Denmark,False,Draw
+2000-06-04,France,Japan,3,56,0,0,2,2,Morocco,True,Draw
+2000-06-04,Netherlands,Poland,21,35,0,0,3,1,Switzerland,True,Win
+2000-06-06,Morocco,France,25,3,0,0,1,5,Morocco,False,Lose
+2000-06-11,France,Denmark,2,13,0,0,3,0,Belgium,True,Win
+2000-06-11,Tunisia,Senegal,27,79,0,0,4,1,Tunisia,False,Win
+2000-06-11,USA,Mexico,19,8,0,0,3,0,USA,False,Win
+2000-06-12,Portugal,England,15,12,0,0,3,2,Netherlands,True,Win
+2000-06-16,Netherlands,Denmark,21,13,0,0,3,0,Netherlands,False,Win
+2000-06-17,England,Germany,12,6,0,0,1,0,Belgium,True,Win
+2000-06-20,Portugal,Germany,15,6,0,0,3,0,Netherlands,True,Win
+2000-06-21,Netherlands,France,21,2,0,0,3,2,Netherlands,False,Win
+2000-06-25,Spain,France,4,2,0,0,1,2,Belgium,True,Lose
+2000-06-28,Brazil,Uruguay,1,43,0,0,1,1,Brazil,False,Draw
+2000-06-28,France,Portugal,2,15,0,0,2,1,Belgium,True,Win
+2000-07-19,Argentina,Ecuador,5,66,0,0,2,0,Argentina,False,Win
+2000-07-23,Costa Rica,USA,69,20,0,0,2,1,Costa Rica,False,Win
+2000-07-26,Brazil,Argentina,1,5,0,0,3,1,Brazil,False,Win
+2000-08-15,Mexico,Canada,14,56,0,0,2,0,Mexico,False,Win
+2000-08-16,Germany,Spain,11,5,0,0,4,1,Germany,False,Win
+2000-09-02,Belgium,Croatia,28,15,0,0,0,0,Belgium,False,Draw
+2000-09-02,France,England,2,13,0,0,1,1,France,False,Draw
+2000-09-03,Uruguay,Ecuador,36,65,0,0,4,0,Uruguay,False,Win
+2000-09-20,Mexico,Ecuador,13,60,0,0,2,0,USA,True,Win
+2000-09-27,Qatar,IR Iran,92,44,0,0,1,2,Qatar,False,Lose
+2000-10-04,France,Cameroon,2,34,0,0,1,1,France,False,Draw
+2000-10-07,Australia,Korea Republic,67,43,0,0,2,4,United Arab Emirates,True,Lose
+2000-10-07,England,Germany,14,9,0,0,0,1,England,False,Lose
+2000-10-08,Argentina,Uruguay,3,32,0,0,2,1,Argentina,False,Win
+2000-10-11,Netherlands,Portugal,9,7,0,0,0,2,Netherlands,False,Lose
+2000-10-11,Poland,Wales,36,109,0,0,0,0,Poland,False,Draw
+2000-10-11,USA,Costa Rica,18,54,0,0,0,0,USA,False,Draw
+2000-10-14,Saudi Arabia,Japan,47,49,0,0,1,4,Lebanon,True,Lose
+2000-10-17,Saudi Arabia,Qatar,47,96,0,0,0,0,Lebanon,True,Draw
+2000-10-20,Japan,Qatar,49,96,0,0,1,1,Lebanon,True,Draw
+2000-10-23,IR Iran,Korea Republic,43,44,0,0,1,2,Lebanon,True,Lose
+2000-10-25,USA,Mexico,18,11,0,0,2,0,USA,False,Win
+2000-10-26,Korea Republic,Saudi Arabia,44,47,0,0,1,2,Lebanon,True,Lose
+2000-10-29,Japan,Saudi Arabia,49,47,0,0,1,0,Lebanon,True,Win
+2000-11-15,Canada,Mexico,63,11,0,0,0,0,Canada,False,Draw
+2000-11-15,Denmark,Germany,24,8,0,0,2,1,Denmark,False,Win
+2000-11-15,Spain,Netherlands,6,10,0,0,1,2,Spain,False,Lose
+2000-11-15,Tunisia,Switzerland,25,59,0,0,1,1,Tunisia,False,Draw
+2000-12-20,Japan,Korea Republic,38,40,0,0,1,1,Japan,False,Draw
+2000-12-20,Mexico,Argentina,12,3,0,0,0,2,USA,True,Lose
+2001-01-13,Tunisia,Morocco,26,28,0,0,0,1,Tunisia,False,Lose
+2001-02-08,Morocco,Korea Republic,28,42,0,0,1,1,United Arab Emirates,True,Draw
+2001-02-24,Morocco,Senegal,28,89,0,0,0,0,Morocco,False,Draw
+2001-02-27,France,Germany,2,11,0,0,1,0,France,False,Win
+2001-02-28,England,Spain,17,7,0,0,3,0,England,False,Win
+2001-02-28,Switzerland,Poland,59,38,0,0,0,4,Cyprus,True,Lose
+2001-02-28,USA,Mexico,16,12,0,0,2,0,USA,False,Win
+2001-03-03,USA,Brazil,16,1,0,0,1,2,USA,False,Lose
+2001-03-07,Mexico,Brazil,12,1,0,0,3,3,Mexico,False,Draw
+2001-03-24,France,Japan,2,42,0,0,5,0,France,False,Win
+2001-03-24,Morocco,Tunisia,30,27,0,0,2,0,Morocco,False,Win
+2001-03-28,Ecuador,Brazil,53,1,0,0,1,0,Ecuador,False,Win
+2001-03-28,Portugal,Netherlands,4,9,0,0,2,2,Portugal,False,Draw
+2001-03-28,Spain,France,7,2,0,0,2,1,Spain,False,Win
+2001-04-24,IR Iran,Korea Republic,40,41,0,0,0,1,Egypt,True,Lose
+2001-04-25,France,Portugal,2,5,0,0,4,0,France,False,Win
+2001-04-25,Spain,Japan,7,42,0,0,1,0,Spain,False,Win
+2001-04-25,USA,Costa Rica,18,52,0,0,1,0,USA,False,Win
+2001-04-26,Canada,IR Iran,65,40,0,0,1,0,Egypt,True,Win
+2001-05-25,England,Mexico,14,13,0,0,4,0,England,False,Win
+2001-05-25,Korea Republic,Cameroon,39,37,0,0,0,0,Korea Republic,False,Draw
+2001-05-30,Korea Republic,France,39,1,0,0,0,5,Korea Republic,False,Lose
+2001-05-30,Mexico,Australia,13,68,0,0,0,2,Korea Republic,True,Lose
+2001-05-31,Brazil,Cameroon,2,37,0,0,2,0,Japan,True,Win
+2001-05-31,Japan,Canada,44,71,0,0,3,0,Japan,False,Win
+2001-06-01,Australia,France,68,1,0,0,1,0,Korea Republic,True,Win
+2001-06-01,Korea Republic,Mexico,39,13,0,0,2,1,Korea Republic,False,Win
+2001-06-02,Canada,Brazil,71,2,0,0,0,0,Japan,True,Draw
+2001-06-02,Japan,Cameroon,44,37,0,0,2,0,Japan,False,Win
+2001-06-02,Wales,Poland,110,23,0,0,1,2,Wales,False,Lose
+2001-06-03,France,Mexico,1,13,0,0,4,0,Korea Republic,True,Win
+2001-06-03,Korea Republic,Australia,39,68,0,0,1,0,Korea Republic,False,Win
+2001-06-04,Cameroon,Canada,37,71,0,0,2,0,Japan,True,Win
+2001-06-04,Japan,Brazil,44,2,0,0,0,0,Japan,False,Draw
+2001-06-07,France,Brazil,1,2,0,0,2,1,Korea Republic,True,Win
+2001-06-07,Japan,Australia,44,68,0,0,1,0,Japan,False,Win
+2001-06-07,USA,Ecuador,15,45,0,0,0,0,USA,False,Draw
+2001-06-09,Australia,Brazil,68,2,0,0,1,0,Korea Republic,True,Win
+2001-06-10,Japan,France,44,1,0,0,0,1,Japan,False,Lose
+2001-06-16,Mexico,Costa Rica,13,54,0,0,1,2,Mexico,False,Lose
+2001-07-01,Mexico,USA,15,17,0,0,1,0,Mexico,False,Win
+2001-07-01,Uruguay,Brazil,40,2,0,0,1,0,Uruguay,False,Win
+2001-07-12,Brazil,Mexico,2,15,0,0,0,1,Colombia,True,Lose
+2001-07-14,Senegal,Morocco,80,28,0,0,1,0,Senegal,False,Win
+2001-07-16,Uruguay,Costa Rica,40,47,0,0,1,1,Colombia,True,Draw
+2001-07-22,Uruguay,Costa Rica,30,33,0,0,2,1,Colombia,True,Win
+2001-07-25,Mexico,Uruguay,13,30,0,0,2,1,Colombia,True,Win
+2001-08-01,Qatar,IR Iran,90,51,0,0,2,1,Qatar,False,Win
+2001-08-05,Saudi Arabia,Qatar,29,90,0,0,1,2,Saudi Arabia,False,Lose
+2001-08-15,Ecuador,Argentina,50,3,0,0,0,2,Ecuador,False,Lose
+2001-08-15,England,Netherlands,15,10,0,0,0,2,England,False,Lose
+2001-08-15,France,Denmark,1,17,0,0,1,0,France,False,Win
+2001-08-15,Japan,Australia,32,46,0,0,3,0,Japan,False,Win
+2001-08-24,IR Iran,Saudi Arabia,46,36,0,0,2,0,IR Iran,False,Win
+2001-09-01,Germany,England,5,15,0,0,1,5,Germany,False,Lose
+2001-09-05,Argentina,Brazil,3,2,0,0,2,1,Argentina,False,Win
+2001-09-05,Costa Rica,USA,31,16,0,0,2,0,Costa Rica,False,Win
+2001-09-28,Saudi Arabia,IR Iran,35,38,0,0,2,2,Saudi Arabia,False,Draw
+2001-10-04,Japan,Senegal,28,69,0,0,0,2,France,True,Lose
+2001-10-06,Croatia,Belgium,16,26,0,0,1,0,Croatia,False,Win
+2001-10-07,Costa Rica,Mexico,29,10,0,0,0,0,Costa Rica,False,Draw
+2001-11-07,Ecuador,Uruguay,39,23,0,0,1,1,Ecuador,False,Draw
+2001-11-08,Korea Republic,Senegal,43,65,0,0,0,1,Korea Republic,False,Lose
+2001-11-10,Denmark,Netherlands,17,7,0,0,1,1,Denmark,False,Draw
+2001-11-10,Korea Republic,Croatia,43,16,0,0,2,0,Korea Republic,False,Win
+2001-11-11,Australia,France,48,1,0,0,1,1,Australia,False,Draw
+2001-11-13,Korea Republic,Croatia,43,16,0,0,1,1,Korea Republic,False,Draw
+2001-11-14,Poland,Cameroon,28,38,0,0,0,0,Poland,False,Draw
+2001-11-14,Spain,Mexico,6,11,0,0,1,0,Spain,False,Win
+2001-11-14,Uruguay,Argentina,23,3,0,0,1,1,Uruguay,False,Draw
+2001-11-20,Australia,Uruguay,48,23,0,0,1,0,Australia,False,Win
+2001-11-25,Uruguay,Australia,24,50,0,0,3,0,Uruguay,False,Win
+2001-12-09,Korea Republic,USA,43,21,0,0,1,0,Korea Republic,False,Win
+2002-01-11,Tunisia,Cameroon,28,38,0,0,0,1,Tunisia,False,Lose
+2002-01-19,USA,Korea Republic,24,42,0,0,2,1,USA,False,Win
+2002-01-21,Morocco,Ghana,36,61,0,0,0,0,Mali,True,Draw
+2002-01-22,Canada,Ecuador,93,38,0,0,0,2,USA,True,Lose
+2002-01-27,Mexico,Korea Republic,9,42,0,0,0,0,USA,True,Draw
+2002-01-30,Costa Rica,Korea Republic,30,42,0,0,3,1,USA,True,Win
+2002-01-30,USA,Canada,24,93,0,0,0,0,USA,False,Draw
+2002-01-30,Saudi Arabia,Qatar,32,80,0,0,3,1,Saudi Arabia,False,Win
+2002-01-31,Senegal,Tunisia,68,28,0,0,0,0,Mali,True,Draw
+2002-02-02,Canada,Korea Republic,93,42,0,0,2,1,USA,True,Win
+2002-02-02,USA,Costa Rica,24,30,0,0,2,0,USA,False,Win
+2002-02-06,Saudi Arabia,Brazil,32,3,0,0,0,1,Saudi Arabia,False,Lose
+2002-02-10,Senegal,Cameroon,68,37,0,0,0,0,Mali,True,Draw
+2002-02-13,Netherlands,England,8,10,0,0,1,1,Netherlands,False,Draw
+2002-02-13,Saudi Arabia,Denmark,34,20,0,0,0,1,Saudi Arabia,False,Lose
+2002-02-13,Spain,Portugal,7,4,0,0,1,1,Spain,False,Draw
+2002-02-13,Uruguay,Korea Republic,24,41,0,0,2,1,Uruguay,False,Win
+2002-02-13,Wales,Argentina,101,2,0,0,1,1,Wales,False,Draw
+2002-03-10,USA,Ecuador,13,37,0,0,1,0,USA,False,Win
+2002-03-13,Tunisia,Korea Republic,29,41,0,0,0,0,Tunisia,False,Draw
+2002-03-27,Argentina,Cameroon,2,19,0,0,2,2,Switzerland,True,Draw
+2002-03-27,Germany,USA,10,13,0,0,4,2,Germany,False,Win
+2002-03-27,Netherlands,Spain,9,7,0,0,1,0,Netherlands,False,Win
+2002-03-27,Poland,Japan,33,38,0,0,0,2,Poland,False,Lose
+2002-03-27,Saudi Arabia,Uruguay,35,22,0,0,3,2,Saudi Arabia,False,Win
+2002-04-17,Germany,Argentina,12,3,0,0,0,1,Germany,False,Lose
+2002-04-17,Japan,Costa Rica,33,27,0,0,1,1,Japan,False,Draw
+2002-04-17,Portugal,Brazil,5,2,0,0,1,1,Portugal,False,Draw
+2002-04-21,Korea Republic,Costa Rica,41,27,0,0,2,0,Korea Republic,False,Win
+2002-05-12,USA,Uruguay,13,21,0,0,2,1,USA,False,Win
+2002-05-14,Saudi Arabia,Senegal,34,43,0,0,3,2,Saudi Arabia,False,Win
+2002-05-14,Wales,Germany,97,12,0,0,1,0,Wales,False,Win
+2002-05-15,Switzerland,Canada,64,75,0,0,1,3,Switzerland,False,Lose
+2002-05-17,Denmark,Cameroon,20,17,0,0,2,1,Denmark,False,Win
+2002-05-18,France,Belgium,1,23,0,0,1,2,France,False,Lose
+2002-05-19,USA,Netherlands,13,9,0,0,0,2,USA,False,Lose
+2002-05-21,Korea Republic,England,40,12,0,0,1,1,Korea Republic,False,Draw
+2002-05-23,Ecuador,Senegal,36,42,0,0,0,1,Japan,True,Lose
+2002-05-26,Belgium,Costa Rica,23,29,0,0,1,0,Japan,True,Win
+2002-05-26,Cameroon,England,17,12,0,0,2,2,Japan,True,Draw
+2002-05-26,Denmark,Tunisia,20,31,0,0,2,1,Japan,True,Win
+2002-05-26,Korea Republic,France,40,1,0,0,2,3,Korea Republic,False,Lose
+2002-05-31,France,Senegal,1,42,0,0,0,1,Korea Republic,True,Lose
+2002-06-01,Germany,Saudi Arabia,11,34,0,0,8,0,Japan,True,Win
+2002-06-01,Uruguay,Denmark,24,20,0,0,1,2,Korea Republic,True,Lose
+2002-06-03,Croatia,Mexico,21,7,0,0,0,1,Japan,True,Lose
+2002-06-04,Japan,Belgium,32,23,0,0,2,2,Japan,False,Draw
+2002-06-04,Korea Republic,Poland,40,38,0,0,2,0,Korea Republic,False,Win
+2002-06-05,USA,Portugal,13,5,0,0,3,2,Korea Republic,True,Win
+2002-06-06,Cameroon,Saudi Arabia,17,34,0,0,1,0,Japan,True,Win
+2002-06-06,Denmark,Senegal,20,42,0,0,1,1,Korea Republic,True,Draw
+2002-06-06,France,Uruguay,1,24,0,0,0,0,Korea Republic,True,Draw
+2002-06-07,Argentina,England,3,12,0,0,0,1,Japan,True,Lose
+2002-06-09,Mexico,Ecuador,7,36,0,0,2,1,Japan,True,Win
+2002-06-10,Korea Republic,USA,40,13,0,0,1,1,Korea Republic,False,Draw
+2002-06-10,Portugal,Poland,5,38,0,0,4,0,Korea Republic,True,Win
+2002-06-10,Tunisia,Belgium,31,23,0,0,1,1,Japan,True,Draw
+2002-06-11,Cameroon,Germany,17,11,0,0,0,2,Japan,True,Lose
+2002-06-11,Denmark,France,20,1,0,0,2,0,Korea Republic,True,Win
+2002-06-11,Senegal,Uruguay,42,24,0,0,3,3,Korea Republic,True,Draw
+2002-06-13,Costa Rica,Brazil,29,2,0,0,2,5,Korea Republic,True,Lose
+2002-06-13,Ecuador,Croatia,36,21,0,0,1,0,Japan,True,Win
+2002-06-14,Japan,Tunisia,32,31,0,0,2,0,Japan,False,Win
+2002-06-14,Korea Republic,Portugal,40,5,0,0,1,0,Korea Republic,False,Win
+2002-06-14,Poland,USA,38,13,0,0,3,1,Korea Republic,True,Win
+2002-06-15,Denmark,England,20,12,0,0,0,3,Japan,True,Lose
+2002-06-17,Brazil,Belgium,2,23,0,0,2,0,Japan,True,Win
+2002-06-17,Mexico,USA,7,13,0,0,0,2,Korea Republic,True,Lose
+2002-06-21,England,Brazil,12,2,0,0,1,2,Japan,True,Lose
+2002-06-21,Germany,USA,11,13,0,0,1,0,Korea Republic,True,Win
+2002-06-22,Korea Republic,Spain,40,8,0,0,0,0,Korea Republic,False,Draw
+2002-06-25,Korea Republic,Germany,40,11,0,0,0,1,Korea Republic,False,Lose
+2002-06-30,Germany,Brazil,11,2,0,0,0,2,Japan,True,Lose
+2002-08-21,Croatia,Wales,26,89,0,0,1,1,Croatia,False,Draw
+2002-08-21,Poland,Belgium,37,18,0,0,1,1,Poland,False,Draw
+2002-08-21,Tunisia,France,39,4,0,0,1,1,Tunisia,False,Draw
+2002-09-07,England,Portugal,7,8,0,0,1,1,England,False,Draw
+2002-09-17,IR Iran,Morocco,33,41,0,0,1,1,IR Iran,False,Draw
+2002-10-12,Portugal,Tunisia,11,39,0,0,1,1,Portugal,False,Draw
+2002-10-16,Costa Rica,Ecuador,25,31,0,0,1,1,Costa Rica,False,Draw
+2002-11-20,Denmark,Poland,13,33,0,0,2,0,Denmark,False,Win
+2002-11-20,Ecuador,Costa Rica,32,26,0,0,2,2,Ecuador,False,Draw
+2002-11-20,Germany,Netherlands,4,10,0,0,1,3,Germany,False,Lose
+2002-11-20,Japan,Argentina,22,5,0,0,0,2,Japan,False,Lose
+2002-11-20,Korea Republic,Brazil,20,1,0,0,2,3,Korea Republic,False,Lose
+2003-01-18,USA,Canada,10,70,0,0,4,0,USA,False,Win
+2003-02-04,Mexico,Argentina,9,5,0,0,0,1,USA,True,Lose
+2003-02-04,Uruguay,IR Iran,28,34,0,0,1,1,Hong Kong,True,Draw
+2003-02-08,USA,Argentina,10,5,0,0,0,1,USA,False,Lose
+2003-02-12,Croatia,Poland,32,33,0,0,0,0,Croatia,False,Draw
+2003-02-12,England,Australia,8,50,0,0,1,3,England,False,Lose
+2003-02-12,Morocco,Senegal,35,27,0,0,1,0,France,True,Win
+2003-02-12,Netherlands,Argentina,6,5,0,0,1,0,Netherlands,False,Win
+2003-02-12,Spain,Germany,3,4,0,0,3,1,Spain,False,Win
+2003-03-27,Tunisia,Ghana,44,61,0,0,2,2,Tunisia,False,Draw
+2003-03-28,Japan,Uruguay,25,27,0,0,2,2,Japan,False,Draw
+2003-03-29,Croatia,Belgium,34,16,0,0,4,0,Croatia,False,Win
+2003-03-29,Portugal,Brazil,12,1,0,0,2,1,Portugal,False,Win
+2003-03-30,Tunisia,Cameroon,44,17,0,0,1,0,Tunisia,False,Win
+2003-04-16,Korea Republic,Japan,19,25,0,0,0,1,Korea Republic,False,Lose
+2003-04-30,Belgium,Poland,16,28,0,0,3,1,Belgium,False,Win
+2003-04-30,Mexico,Brazil,9,1,0,0,0,0,Mexico,False,Draw
+2003-04-30,Netherlands,Portugal,5,12,0,0,1,1,Netherlands,False,Draw
+2003-04-30,Spain,Ecuador,2,33,0,0,4,0,Spain,False,Win
+2003-04-30,Tunisia,Senegal,41,30,0,0,1,0,Tunisia,False,Win
+2003-05-08,USA,Mexico,10,9,0,0,0,0,USA,False,Draw
+2003-05-26,USA,Wales,10,50,0,0,2,0,USA,False,Win
+2003-05-31,Japan,Korea Republic,23,21,0,0,0,1,Japan,False,Lose
+2003-06-01,Germany,Canada,4,77,0,0,4,1,Germany,False,Win
+2003-06-08,Japan,Argentina,23,5,0,0,1,4,Japan,False,Lose
+2003-06-08,Korea Republic,Uruguay,21,28,0,0,0,2,Korea Republic,False,Lose
+2003-06-11,Korea Republic,Argentina,21,5,0,0,0,1,Korea Republic,False,Lose
+2003-06-19,Brazil,Cameroon,1,18,0,0,0,1,France,True,Lose
+2003-06-20,France,Japan,2,23,0,0,2,1,France,False,Win
+2003-06-21,Brazil,USA,1,10,0,0,1,0,France,True,Win
+2003-06-23,USA,Cameroon,10,18,0,0,0,0,France,True,Draw
+2003-06-29,France,Cameroon,2,16,0,0,1,0,France,False,Win
+2003-07-12,Costa Rica,Canada,18,78,0,0,0,1,USA,True,Lose
+2003-07-13,Mexico,Brazil,11,1,0,0,1,0,Mexico,False,Win
+2003-07-16,Argentina,Uruguay,4,31,0,0,2,2,Argentina,False,Draw
+2003-07-23,USA,Brazil,9,1,0,0,1,2,USA,False,Lose
+2003-07-24,Mexico,Costa Rica,11,18,0,0,2,0,Mexico,False,Win
+2003-07-26,USA,Costa Rica,9,18,0,0,3,2,USA,False,Win
+2003-07-27,Mexico,Brazil,11,1,0,0,1,0,Mexico,False,Win
+2003-08-20,Argentina,Uruguay,6,26,0,0,3,2,Italy,True,Win
+2003-08-20,Belgium,Netherlands,18,4,0,0,1,1,Belgium,False,Draw
+2003-08-20,England,Croatia,10,25,0,0,3,1,England,False,Win
+2003-08-20,Switzerland,France,40,2,0,0,0,2,Switzerland,False,Lose
+2003-09-06,Portugal,Spain,16,3,0,0,0,3,Portugal,False,Lose
+2003-09-10,Belgium,Croatia,18,26,0,0,2,1,Belgium,False,Win
+2003-09-10,Brazil,Ecuador,1,37,0,0,1,0,Brazil,False,Win
+2003-09-10,Japan,Senegal,23,28,0,0,0,1,Japan,False,Lose
+2003-10-08,Tunisia,Japan,42,24,0,0,0,1,Tunisia,False,Lose
+2003-10-11,Tunisia,Morocco,42,36,0,0,0,0,Tunisia,False,Draw
+2003-10-15,Mexico,Uruguay,5,22,0,0,0,2,USA,True,Lose
+2003-11-15,Germany,France,7,2,0,0,0,3,Germany,False,Lose
+2003-11-16,England,Denmark,6,14,0,0,2,3,England,False,Lose
+2003-11-19,Brazil,Uruguay,1,20,0,0,3,3,Brazil,False,Draw
+2003-11-19,Japan,Cameroon,28,14,0,0,0,0,Japan,False,Draw
+2003-12-10,Japan,Korea Republic,28,22,0,0,0,0,Japan,False,Draw
+2003-12-29,Saudi Arabia,Qatar,26,65,0,0,0,0,Kuwait,True,Draw
+2004-02-07,Tunisia,Senegal,45,33,0,0,1,0,Tunisia,False,Win
+2004-02-14,Tunisia,Morocco,45,38,0,0,2,1,Tunisia,False,Win
+2004-02-18,Belgium,France,16,2,0,0,0,2,Belgium,False,Lose
+2004-02-18,Croatia,Germany,19,12,0,0,1,2,Croatia,False,Lose
+2004-02-18,IR Iran,Qatar,31,58,0,0,3,1,IR Iran,False,Win
+2004-02-18,Morocco,Switzerland,33,45,0,0,2,1,Morocco,False,Win
+2004-02-18,Netherlands,USA,4,11,0,0,1,0,Netherlands,False,Win
+2004-02-18,Portugal,England,17,7,0,0,1,1,Portugal,False,Draw
+2004-03-10,Mexico,Ecuador,5,40,0,0,2,1,Mexico,False,Win
+2004-03-30,Argentina,Ecuador,6,40,0,0,1,0,Argentina,False,Win
+2004-03-31,Germany,Belgium,10,16,0,0,3,0,Germany,False,Win
+2004-03-31,Mexico,Costa Rica,5,18,0,0,2,0,USA,True,Win
+2004-03-31,Netherlands,France,4,2,0,0,0,0,Netherlands,False,Draw
+2004-03-31,Poland,USA,24,12,0,0,0,1,Poland,False,Lose
+2004-03-31,Spain,Denmark,3,14,0,0,2,0,Spain,False,Win
+2004-04-28,Morocco,Argentina,30,5,0,0,0,1,Morocco,False,Lose
+2004-04-28,USA,Mexico,11,4,0,0,1,0,USA,False,Win
+2004-05-20,France,Brazil,2,1,0,0,0,0,France,False,Draw
+2004-05-29,Netherlands,Belgium,4,17,0,0,0,1,Netherlands,False,Lose
+2004-05-30,Wales,Canada,66,93,0,0,1,0,Wales,False,Win
+2004-06-01,England,Japan,12,25,0,0,1,1,England,False,Draw
+2004-06-02,Brazil,Argentina,1,5,0,0,3,1,Brazil,False,Win
+2004-06-02,Switzerland,Germany,47,9,0,0,0,2,Switzerland,False,Lose
+2004-06-05,Denmark,Croatia,14,25,0,0,1,2,Denmark,False,Lose
+2004-06-13,France,England,2,13,0,0,2,1,Portugal,True,Win
+2004-06-13,Switzerland,Croatia,47,20,0,0,0,0,Portugal,True,Draw
+2004-06-15,Germany,Netherlands,8,5,0,0,1,1,Portugal,True,Draw
+2004-06-17,Croatia,France,20,2,0,0,2,2,Portugal,True,Draw
+2004-06-17,England,Switzerland,13,47,0,0,3,0,Portugal,True,Win
+2004-06-20,Portugal,Spain,22,3,0,0,1,0,Portugal,False,Win
+2004-06-21,Croatia,England,20,13,0,0,2,4,Portugal,True,Lose
+2004-06-21,Switzerland,France,47,2,0,0,1,3,Portugal,True,Lose
+2004-06-24,Portugal,England,22,13,0,0,2,2,Portugal,False,Draw
+2004-06-30,Portugal,Netherlands,22,5,0,0,2,1,Portugal,False,Win
+2004-07-07,Argentina,Ecuador,11,37,0,0,6,1,Peru,True,Win
+2004-07-07,Mexico,Uruguay,6,32,0,0,2,2,Peru,True,Draw
+2004-07-10,Argentina,Mexico,11,6,0,0,0,1,Peru,True,Lose
+2004-07-10,Uruguay,Ecuador,32,37,0,0,2,1,Peru,True,Win
+2004-07-11,Brazil,Costa Rica,1,29,0,0,4,1,Peru,True,Win
+2004-07-11,USA,Poland,7,27,0,0,1,1,USA,False,Draw
+2004-07-13,Argentina,Uruguay,11,32,0,0,4,2,Peru,True,Win
+2004-07-13,Mexico,Ecuador,6,37,0,0,2,1,Peru,True,Win
+2004-07-18,Mexico,Brazil,6,1,0,0,0,4,Peru,True,Lose
+2004-07-21,Uruguay,Brazil,32,1,0,0,1,1,Peru,True,Draw
+2004-07-25,Argentina,Brazil,11,1,0,0,2,2,Peru,True,Draw
+2004-07-28,Japan,IR Iran,24,21,0,0,0,0,China PR,True,Draw
+2004-07-31,Korea Republic,IR Iran,20,21,0,0,3,4,China PR,True,Lose
+2004-08-18,Japan,Argentina,20,4,0,0,1,2,Japan,False,Lose
+2004-08-18,Poland,Denmark,28,15,0,0,1,5,Poland,False,Lose
+2004-09-04,Morocco,Tunisia,33,36,0,0,1,1,Morocco,False,Draw
+2004-09-05,Uruguay,Ecuador,19,42,0,0,1,0,Uruguay,False,Win
+2004-09-08,Costa Rica,Canada,33,99,0,0,1,0,Costa Rica,False,Win
+2004-09-08,Germany,Brazil,11,1,0,0,1,1,Germany,False,Draw
+2004-09-08,Poland,England,29,7,0,0,1,2,Poland,False,Lose
+2004-10-09,Argentina,Uruguay,3,17,0,0,4,2,Argentina,False,Win
+2004-10-09,England,Wales,7,57,0,0,2,0,England,False,Win
+2004-10-09,IR Iran,Germany,20,13,0,0,0,2,IR Iran,False,Lose
+2004-10-09,Spain,Belgium,4,35,0,0,2,0,Spain,False,Win
+2004-10-13,Canada,Costa Rica,95,32,0,0,1,3,Canada,False,Lose
+2004-10-13,Qatar,IR Iran,62,20,0,0,2,3,Qatar,False,Lose
+2004-10-13,Wales,Poland,57,29,0,0,2,3,Wales,False,Lose
+2004-10-27,Mexico,Ecuador,10,48,0,0,2,1,USA,True,Win
+2004-11-17,Ecuador,Brazil,44,1,0,0,1,0,Ecuador,False,Win
+2004-11-17,France,Poland,2,26,0,0,0,0,France,False,Draw
+2004-11-17,Germany,Cameroon,16,22,0,0,3,0,Germany,False,Win
+2004-11-17,Spain,England,4,7,0,0,1,0,Spain,False,Win
+2004-12-16,Japan,Germany,17,16,0,0,0,3,Japan,False,Lose
+2004-12-19,Korea Republic,Germany,24,16,0,0,3,1,Korea Republic,False,Win
+2005-02-09,Cameroon,Senegal,23,30,0,0,1,0,France,True,Win
+2005-02-09,Costa Rica,Mexico,27,7,0,0,1,2,Costa Rica,False,Lose
+2005-02-09,England,Netherlands,8,6,0,0,0,0,England,False,Draw
+2005-02-09,Germany,Argentina,16,3,0,0,2,2,Germany,False,Draw
+2005-02-16,Costa Rica,Ecuador,27,37,0,0,1,2,Costa Rica,False,Lose
+2005-03-09,Mexico,Argentina,6,3,0,0,1,1,USA,True,Draw
+2005-03-25,IR Iran,Japan,20,18,0,0,2,1,IR Iran,False,Win
+2005-03-25,Saudi Arabia,Korea Republic,30,22,0,0,2,0,Saudi Arabia,False,Win
+2005-03-26,France,Switzerland,2,49,0,0,0,0,France,False,Draw
+2005-03-26,Portugal,Canada,9,84,0,0,4,1,Portugal,False,Win
+2005-03-27,Mexico,USA,6,10,0,0,2,1,Mexico,False,Win
+2005-03-30,Uruguay,Brazil,15,1,0,0,1,1,Uruguay,False,Draw
+2005-04-27,Mexico,Poland,8,25,0,0,1,1,USA,True,Draw
+2005-05-28,USA,England,10,6,0,0,1,2,USA,False,Lose
+2005-06-04,Ecuador,Argentina,34,3,0,0,2,0,Ecuador,False,Win
+2005-06-04,USA,Costa Rica,10,21,0,0,3,0,USA,False,Win
+2005-06-08,Argentina,Brazil,3,1,0,0,3,1,Argentina,False,Win
+2005-06-15,Argentina,Tunisia,3,38,0,0,2,1,Germany,True,Win
+2005-06-15,Germany,Australia,21,57,0,0,4,3,Germany,False,Win
+2005-06-16,Japan,Mexico,18,6,0,0,1,2,Germany,True,Lose
+2005-06-18,Australia,Argentina,57,3,0,0,2,4,Germany,True,Lose
+2005-06-18,Germany,Tunisia,21,38,0,0,3,0,Germany,False,Win
+2005-06-19,Mexico,Brazil,6,1,0,0,1,0,Germany,True,Win
+2005-06-21,Australia,Tunisia,57,38,0,0,0,2,Germany,True,Lose
+2005-06-21,Germany,Argentina,21,3,0,0,2,2,Germany,False,Draw
+2005-06-22,Japan,Brazil,18,1,0,0,2,2,Germany,True,Draw
+2005-06-25,Germany,Brazil,21,1,0,0,2,3,Germany,False,Lose
+2005-06-26,Mexico,Argentina,6,3,0,0,1,1,Germany,True,Draw
+2005-06-29,Brazil,Argentina,1,3,0,0,4,1,Germany,True,Win
+2005-06-29,Germany,Mexico,21,6,0,0,4,3,Germany,False,Win
+2005-07-07,Canada,Costa Rica,85,24,0,0,0,1,USA,True,Lose
+2005-07-09,USA,Canada,10,85,0,0,2,0,USA,False,Win
+2005-07-12,USA,Costa Rica,10,24,0,0,0,0,USA,False,Draw
+2005-08-07,Korea Republic,Japan,21,13,0,0,0,1,Korea Republic,False,Lose
+2005-08-17,Croatia,Brazil,20,1,0,0,1,1,Croatia,False,Draw
+2005-08-17,Denmark,England,18,7,0,0,4,1,Denmark,False,Win
+2005-08-17,Japan,IR Iran,17,15,0,0,2,1,Japan,False,Win
+2005-08-17,Korea Republic,Saudi Arabia,23,27,0,0,0,1,Korea Republic,False,Lose
+2005-08-17,Mexico,Costa Rica,5,21,0,0,2,0,Mexico,False,Win
+2005-08-17,Netherlands,Germany,3,11,0,0,2,2,Netherlands,False,Draw
+2005-08-17,Senegal,Ghana,40,70,0,0,0,0,England,True,Draw
+2005-08-17,Spain,Uruguay,8,25,0,0,2,0,Spain,False,Win
+2005-09-03,Spain,Canada,8,84,0,0,2,1,Spain,False,Win
+2005-09-03,USA,Mexico,6,5,0,0,2,0,USA,False,Win
+2005-09-03,Wales,England,83,7,0,0,0,1,Wales,False,Lose
+2005-09-07,Poland,Wales,22,83,0,0,1,0,Poland,False,Win
+2005-10-08,Belgium,Spain,47,8,0,0,0,2,Belgium,False,Lose
+2005-10-08,Costa Rica,USA,19,7,0,0,3,0,Costa Rica,False,Win
+2005-10-08,Ecuador,Uruguay,33,25,0,0,0,0,Ecuador,False,Draw
+2005-10-08,Switzerland,France,38,6,0,0,1,1,Switzerland,False,Draw
+2005-10-08,Tunisia,Morocco,23,36,0,0,2,2,Tunisia,False,Draw
+2005-10-12,England,Poland,11,17,0,0,2,1,England,False,Win
+2005-10-12,Korea Republic,IR Iran,26,18,0,0,2,0,Korea Republic,False,Win
+2005-10-12,Uruguay,Argentina,25,3,0,0,1,0,Uruguay,False,Win
+2005-10-26,Mexico,Uruguay,6,17,0,0,3,1,Mexico,False,Win
+2005-11-09,France,Costa Rica,5,20,0,0,3,2,Martinique,True,Win
+2005-11-12,England,Argentina,9,4,0,0,3,2,Switzerland,True,Win
+2005-11-12,France,Germany,5,15,0,0,0,0,France,False,Draw
+2005-11-12,Portugal,Croatia,9,19,0,0,2,0,Portugal,False,Win
+2005-11-12,Uruguay,Australia,17,54,0,0,1,0,Uruguay,False,Win
+2005-11-13,Ecuador,Poland,36,23,0,0,0,3,Spain,True,Lose
+2005-11-14,Saudi Arabia,Ghana,31,51,0,0,1,3,Saudi Arabia,False,Lose
+2005-11-15,Morocco,Cameroon,35,23,0,0,0,0,France,True,Draw
+2005-11-16,Australia,Uruguay,54,17,0,0,1,0,Australia,False,Win
+2005-11-16,Qatar,Argentina,77,4,0,0,0,3,Qatar,False,Lose
+2005-12-27,Ecuador,Senegal,37,30,0,0,1,2,Egypt,True,Lose
+2006-01-15,Tunisia,Ghana,28,50,0,0,2,0,Tunisia,False,Win
+2006-01-22,USA,Canada,7,84,0,0,0,0,USA,False,Draw
+2006-01-27,Ghana,Senegal,50,30,0,0,1,0,Egypt,True,Win
+2006-01-29,Korea Republic,Croatia,29,20,0,0,2,0,Hong Kong,True,Win
+2006-02-10,USA,Japan,7,15,0,0,3,2,USA,False,Win
+2006-02-11,Costa Rica,Korea Republic,21,29,0,0,1,0,USA,True,Win
+2006-02-15,Mexico,Korea Republic,6,31,0,0,0,1,USA,True,Lose
+2006-03-01,Argentina,Croatia,4,23,0,0,2,3,Switzerland,True,Lose
+2006-03-01,England,Uruguay,9,21,0,0,2,1,England,False,Win
+2006-03-01,IR Iran,Costa Rica,22,25,0,0,3,2,IR Iran,False,Win
+2006-03-01,Mexico,Ghana,6,48,0,0,1,0,USA,True,Win
+2006-03-01,Netherlands,Ecuador,3,38,0,0,1,0,Netherlands,False,Win
+2006-03-01,Poland,USA,26,6,0,0,0,1,Germany,True,Lose
+2006-03-01,Saudi Arabia,Portugal,35,10,0,0,0,3,Germany,True,Lose
+2006-03-01,Tunisia,Serbia,23,47,0,0,0,1,Tunisia,False,Lose
+2006-03-22,Germany,USA,22,5,0,0,4,1,Germany,False,Win
+2006-03-28,Saudi Arabia,Poland,34,26,0,0,1,2,Saudi Arabia,False,Lose
+2006-03-30,Japan,Ecuador,18,38,0,0,1,0,Japan,False,Win
+2006-05-11,Belgium,Saudi Arabia,56,34,0,0,2,1,Netherlands,True,Win
+2006-05-23,Korea Republic,Senegal,29,28,0,0,1,1,Korea Republic,False,Draw
+2006-05-23,USA,Morocco,5,36,0,0,0,1,USA,False,Lose
+2006-05-27,France,Mexico,8,4,0,0,1,0,France,False,Win
+2006-05-27,Netherlands,Cameroon,3,15,0,0,1,0,Netherlands,False,Win
+2006-05-27,Serbia,Uruguay,47,22,0,0,1,1,Serbia and Montenegro,False,Draw
+2006-05-28,Croatia,IR Iran,23,23,0,0,2,2,Croatia,False,Draw
+2006-05-30,Germany,Japan,19,18,0,0,2,2,Germany,False,Draw
+2006-05-31,France,Denmark,8,11,0,0,2,0,France,False,Win
+2006-06-01,Netherlands,Mexico,3,4,0,0,2,1,Netherlands,False,Win
+2006-06-02,Tunisia,Uruguay,21,22,0,0,0,0,Tunisia,False,Draw
+2006-06-03,Croatia,Poland,23,29,0,0,0,1,Germany,True,Lose
+2006-06-04,Ghana,Korea Republic,48,29,0,0,3,1,Scotland,True,Win
+2006-06-04,Netherlands,Australia,3,42,0,0,1,1,Netherlands,False,Draw
+2006-06-07,Spain,Croatia,5,23,0,0,2,1,Switzerland,True,Win
+2006-06-09,Germany,Costa Rica,19,26,0,0,4,2,Germany,False,Win
+2006-06-09,Poland,Ecuador,29,39,0,0,0,2,Germany,True,Lose
+2006-06-11,Mexico,IR Iran,4,23,0,0,3,1,Germany,True,Win
+2006-06-11,Serbia,Netherlands,47,3,0,0,0,1,Germany,True,Lose
+2006-06-12,Australia,Japan,42,18,0,0,3,1,Germany,True,Win
+2006-06-13,Brazil,Croatia,1,23,0,0,1,0,Germany,True,Win
+2006-06-13,France,Switzerland,8,35,0,0,0,0,Germany,True,Draw
+2006-06-14,Germany,Poland,19,29,0,0,1,0,Germany,False,Win
+2006-06-14,Tunisia,Saudi Arabia,21,34,0,0,2,2,Germany,True,Draw
+2006-06-15,Ecuador,Costa Rica,39,26,0,0,3,0,Germany,True,Win
+2006-06-16,Argentina,Serbia,9,47,0,0,6,0,Germany,True,Win
+2006-06-17,Portugal,IR Iran,7,23,0,0,2,0,Germany,True,Win
+2006-06-18,Brazil,Australia,1,42,0,0,2,0,Germany,True,Win
+2006-06-18,France,Korea Republic,8,29,0,0,1,1,Germany,True,Draw
+2006-06-18,Japan,Croatia,18,23,0,0,0,0,Germany,True,Draw
+2006-06-19,Spain,Tunisia,5,21,0,0,3,1,Germany,True,Win
+2006-06-20,Costa Rica,Poland,26,29,0,0,1,2,Germany,True,Lose
+2006-06-20,Germany,Ecuador,19,39,0,0,3,0,Germany,False,Win
+2006-06-21,Netherlands,Argentina,3,9,0,0,0,0,Germany,True,Draw
+2006-06-21,Portugal,Mexico,7,4,0,0,2,1,Germany,True,Win
+2006-06-22,Croatia,Australia,23,42,0,0,2,2,Germany,True,Draw
+2006-06-22,Ghana,USA,48,5,0,0,2,1,Germany,True,Win
+2006-06-22,Japan,Brazil,18,1,0,0,1,4,Germany,True,Lose
+2006-06-23,Saudi Arabia,Spain,34,5,0,0,0,1,Germany,True,Lose
+2006-06-23,Switzerland,Korea Republic,35,29,0,0,2,0,Germany,True,Win
+2006-06-24,Argentina,Mexico,9,4,0,0,2,1,Germany,True,Win
+2006-06-25,England,Ecuador,10,39,0,0,1,0,Germany,True,Win
+2006-06-25,Portugal,Netherlands,7,3,0,0,1,0,Germany,True,Win
+2006-06-27,Brazil,Ghana,1,48,0,0,3,0,Germany,True,Win
+2006-06-27,Spain,France,5,8,0,0,1,3,Germany,True,Lose
+2006-06-30,Germany,Argentina,19,9,0,0,1,1,Germany,False,Draw
+2006-07-01,Brazil,France,1,8,0,0,0,1,Germany,True,Lose
+2006-07-01,England,Portugal,10,7,0,0,0,0,Germany,True,Draw
+2006-07-05,Portugal,France,7,8,0,0,0,1,Germany,True,Lose
+2006-07-08,Germany,Portugal,19,7,0,0,3,1,Germany,False,Win
+2006-08-16,Denmark,Poland,17,30,0,0,2,0,Denmark,False,Win
+2006-09-01,Denmark,Portugal,17,8,0,0,4,2,Denmark,False,Win
+2006-09-02,Korea Republic,IR Iran,52,45,0,0,1,1,Korea Republic,False,Draw
+2006-09-03,Argentina,Brazil,3,1,0,0,0,3,England,True,Lose
+2006-09-03,Saudi Arabia,Japan,75,48,0,0,1,0,Saudi Arabia,False,Win
+2006-09-05,Wales,Brazil,56,1,0,0,0,2,England,True,Lose
+2006-09-06,Poland,Serbia,30,33,0,0,1,1,Poland,False,Draw
+2006-09-06,Switzerland,Costa Rica,13,47,0,0,2,0,Switzerland,False,Win
+2006-10-04,Japan,Ghana,47,23,0,0,0,1,Japan,False,Lose
+2006-10-07,Serbia,Belgium,32,50,0,0,1,0,Serbia,False,Win
+2006-10-08,Korea Republic,Ghana,49,23,0,0,1,3,Korea Republic,False,Lose
+2006-10-10,Brazil,Ecuador,1,30,0,0,2,1,Sweden,True,Win
+2006-10-11,Croatia,England,24,4,0,0,2,0,Croatia,False,Win
+2006-10-11,Poland,Portugal,35,9,0,0,2,1,Poland,False,Win
+2006-10-11,Spain,Argentina,10,3,0,0,2,1,Spain,False,Win
+2006-11-14,Australia,Ghana,37,24,0,0,1,1,England,True,Draw
+2006-11-15,Belgium,Poland,47,27,0,0,0,1,Belgium,False,Lose
+2006-11-15,IR Iran,Korea Republic,43,48,0,0,2,0,IR Iran,False,Win
+2006-11-15,Japan,Saudi Arabia,46,62,0,0,3,1,Japan,False,Win
+2006-11-15,Netherlands,England,7,5,0,0,1,1,Netherlands,False,Draw
+2006-11-15,Switzerland,Brazil,15,1,0,0,1,2,Switzerland,False,Lose
+2007-01-21,Saudi Arabia,Qatar,64,59,0,0,1,1,United Arab Emirates,True,Draw
+2007-02-06,Australia,Denmark,39,23,0,0,1,3,England,True,Lose
+2007-02-06,Portugal,Brazil,8,1,0,0,2,0,England,True,Win
+2007-02-07,England,Spain,6,12,0,0,0,1,England,False,Lose
+2007-02-07,France,Argentina,4,3,0,0,0,1,France,False,Lose
+2007-02-07,Germany,Switzerland,5,17,0,0,3,1,Germany,False,Win
+2007-02-07,Morocco,Tunisia,42,32,0,0,1,1,Morocco,False,Draw
+2007-02-07,USA,Mexico,31,21,0,0,2,0,USA,False,Win
+2007-03-24,Korea Republic,Uruguay,48,26,0,0,0,2,Korea Republic,False,Lose
+2007-03-24,Portugal,Belgium,8,55,0,0,4,0,Portugal,False,Win
+2007-03-24,Qatar,IR Iran,80,34,0,0,0,1,Qatar,False,Lose
+2007-03-24,Spain,Denmark,10,22,0,0,2,1,Spain,False,Win
+2007-03-25,USA,Ecuador,30,24,0,0,3,1,USA,False,Win
+2007-03-27,Brazil,Ghana,3,19,0,0,1,0,Sweden,True,Win
+2007-03-28,Germany,Denmark,5,22,0,0,0,1,Germany,False,Lose
+2007-03-28,Mexico,Ecuador,21,24,0,0,4,2,USA,True,Win
+2007-03-28,Serbia,Portugal,28,8,0,0,1,1,Serbia,False,Draw
+2007-06-01,England,Brazil,8,2,0,0,1,1,England,False,Draw
+2007-06-02,Australia,Uruguay,42,23,0,0,1,2,Australia,False,Lose
+2007-06-02,Belgium,Portugal,62,7,0,0,1,2,Belgium,False,Lose
+2007-06-02,Korea Republic,Netherlands,51,6,0,0,0,2,Korea Republic,False,Lose
+2007-06-02,Mexico,IR Iran,20,41,0,0,4,0,Mexico,False,Win
+2007-06-02,Switzerland,Argentina,21,3,0,0,1,1,Switzerland,False,Draw
+2007-06-06,Costa Rica,Canada,52,94,0,0,1,2,USA,True,Lose
+2007-06-17,Mexico,Costa Rica,26,46,0,0,1,0,USA,True,Win
+2007-06-21,USA,Canada,16,56,0,0,2,1,USA,False,Win
+2007-06-24,USA,Mexico,16,26,0,0,2,1,USA,False,Win
+2007-06-27,Brazil,Mexico,3,26,0,0,0,2,Venezuela,True,Lose
+2007-06-28,Argentina,USA,5,16,0,0,4,1,Venezuela,True,Win
+2007-07-01,Mexico,Ecuador,26,44,0,0,2,1,Venezuela,True,Win
+2007-07-04,Brazil,Ecuador,3,44,0,0,1,0,Venezuela,True,Win
+2007-07-09,Japan,Qatar,40,85,0,0,1,1,Vietnam,True,Draw
+2007-07-10,Uruguay,Brazil,30,3,0,0,2,2,Venezuela,True,Draw
+2007-07-11,Korea Republic,Saudi Arabia,51,62,0,0,1,1,Indonesia,True,Draw
+2007-07-11,Mexico,Argentina,26,5,0,0,0,3,Venezuela,True,Lose
+2007-07-14,Mexico,Uruguay,26,30,0,0,3,1,Venezuela,True,Win
+2007-07-15,Brazil,Argentina,3,5,0,0,3,0,Venezuela,True,Win
+2007-07-21,Japan,Australia,36,49,0,0,1,1,Vietnam,True,Draw
+2007-07-22,IR Iran,Korea Republic,46,58,0,0,0,0,Malaysia,True,Draw
+2007-07-25,Japan,Saudi Arabia,36,61,0,0,2,3,Vietnam,True,Lose
+2007-07-28,Korea Republic,Japan,58,36,0,0,0,0,Indonesia,True,Draw
+2007-08-21,Ghana,Senegal,37,44,0,0,1,1,England,True,Draw
+2007-08-22,Belgium,Serbia,69,18,0,0,3,2,Belgium,False,Win
+2007-08-22,England,Germany,12,5,0,0,1,2,England,False,Lose
+2007-08-22,Japan,Cameroon,41,16,0,0,2,0,Japan,False,Win
+2007-08-22,Switzerland,Netherlands,45,7,0,0,2,1,Switzerland,False,Win
+2007-09-08,Morocco,Ghana,34,43,0,0,0,2,France,True,Lose
+2007-09-08,Portugal,Poland,10,20,0,0,2,2,Portugal,False,Draw
+2007-09-08,Wales,Germany,74,5,0,0,0,2,Wales,False,Lose
+2007-09-09,USA,Brazil,17,1,0,0,2,4,USA,False,Lose
+2007-09-11,Australia,Argentina,49,2,0,0,0,1,Australia,False,Lose
+2007-09-11,Saudi Arabia,Ghana,51,43,0,0,5,0,Saudi Arabia,False,Win
+2007-09-11,Switzerland,Japan,45,41,0,0,3,4,Austria,True,Lose
+2007-09-12,Canada,Costa Rica,53,52,0,0,1,1,Canada,False,Draw
+2007-09-12,Mexico,Brazil,11,1,0,0,1,3,USA,True,Lose
+2007-09-12,Portugal,Serbia,10,18,0,0,1,1,Portugal,False,Draw
+2007-10-13,Denmark,Spain,28,7,0,0,1,3,Denmark,False,Lose
+2007-10-17,Brazil,Ecuador,3,57,0,0,5,0,Brazil,False,Win
+2007-10-17,Switzerland,USA,42,18,0,0,0,1,Switzerland,False,Lose
+2007-11-16,France,Morocco,4,42,0,0,2,2,France,False,Draw
+2007-11-17,Poland,Belgium,20,54,0,0,2,0,Poland,False,Win
+2007-11-21,Brazil,Uruguay,2,17,0,0,2,1,Brazil,False,Win
+2007-11-21,England,Croatia,11,10,0,0,2,3,England,False,Lose
+2007-11-21,Germany,Wales,5,58,0,0,0,0,Germany,False,Draw
+2007-11-21,Morocco,Senegal,42,34,0,0,3,0,France,True,Win
+2007-11-21,Serbia,Poland,27,20,0,0,2,2,Serbia,False,Draw
+2008-01-10,Qatar,IR Iran,87,41,0,0,0,0,Qatar,False,Draw
+2008-01-23,Tunisia,Senegal,46,40,0,0,2,2,Ghana,True,Draw
+2008-01-28,Ghana,Morocco,43,39,0,0,2,0,Ghana,False,Win
+2008-01-30,IR Iran,Costa Rica,41,69,0,0,0,0,IR Iran,False,Draw
+2008-02-04,Tunisia,Cameroon,46,25,0,0,2,3,Ghana,True,Lose
+2008-02-06,Australia,Qatar,48,88,0,0,3,0,Australia,False,Win
+2008-02-06,Croatia,Netherlands,10,9,0,0,0,3,Croatia,False,Lose
+2008-02-06,England,Switzerland,12,44,0,0,2,1,England,False,Win
+2008-02-06,Spain,France,4,7,0,0,1,0,Spain,False,Win
+2008-02-06,USA,Mexico,20,15,0,0,2,2,USA,False,Draw
+2008-02-07,Ghana,Cameroon,43,25,0,0,0,1,Ghana,False,Lose
+2008-02-23,Japan,Korea Republic,35,41,0,0,1,1,China PR,True,Draw
+2008-03-26,Belgium,Morocco,42,49,0,0,1,4,Belgium,False,Lose
+2008-03-26,France,England,7,11,0,0,1,0,France,False,Win
+2008-03-26,Ghana,Mexico,15,16,0,0,1,2,England,True,Lose
+2008-03-26,Poland,USA,24,28,0,0,0,3,Poland,False,Lose
+2008-03-26,Switzerland,Germany,40,5,0,0,0,4,Switzerland,False,Lose
+2008-05-23,Australia,Ghana,43,14,0,0,1,0,Australia,False,Win
+2008-05-27,France,Ecuador,7,55,0,0,2,0,France,False,Win
+2008-05-28,England,USA,11,21,0,0,2,0,England,False,Win
+2008-05-29,Netherlands,Denmark,10,33,0,0,1,1,Netherlands,False,Draw
+2008-05-31,Brazil,Canada,2,62,0,0,3,2,USA,True,Win
+2008-05-31,Germany,Serbia,5,31,0,0,2,1,Germany,False,Win
+2008-06-01,Netherlands,Wales,10,52,0,0,2,0,Netherlands,False,Win
+2008-06-01,Poland,Denmark,27,33,0,0,1,1,Poland,False,Draw
+2008-06-04,Mexico,Argentina,14,1,0,0,1,4,USA,True,Lose
+2008-06-04,Spain,USA,4,21,0,0,1,0,Spain,False,Win
+2008-06-08,Germany,Poland,5,28,0,0,2,0,Austria,True,Win
+2008-06-08,USA,Argentina,21,1,0,0,0,0,USA,False,Draw
+2008-06-12,Croatia,Germany,15,5,0,0,2,1,Austria,True,Win
+2008-06-13,Netherlands,France,10,7,0,0,4,1,Switzerland,True,Win
+2008-06-14,Qatar,Australia,83,35,0,0,1,3,Qatar,False,Lose
+2008-06-15,Argentina,Ecuador,1,59,0,0,1,1,Argentina,False,Draw
+2008-06-15,Switzerland,Portugal,44,11,0,0,2,0,Switzerland,False,Win
+2008-06-16,Poland,Croatia,28,15,0,0,0,1,Austria,True,Lose
+2008-06-18,Brazil,Argentina,2,1,0,0,0,0,Brazil,False,Draw
+2008-06-19,Portugal,Germany,11,5,0,0,2,3,Switzerland,True,Lose
+2008-06-29,Germany,Spain,5,4,0,0,0,1,Austria,True,Lose
+2008-08-11,IR Iran,Qatar,45,71,0,0,6,1,IR Iran,False,Win
+2008-08-20,Denmark,Spain,36,1,0,0,0,3,Denmark,False,Lose
+2008-08-20,Germany,Belgium,2,46,0,0,2,0,Germany,False,Win
+2008-08-20,Japan,Uruguay,35,24,0,0,1,3,Japan,False,Lose
+2008-08-30,Saudi Arabia,Qatar,52,71,0,0,2,1,Saudi Arabia,False,Win
+2008-09-06,Netherlands,Australia,4,39,0,0,1,2,Netherlands,False,Lose
+2008-09-06,Saudi Arabia,IR Iran,48,46,0,0,1,1,Saudi Arabia,False,Draw
+2008-09-10,Croatia,England,5,15,0,0,1,4,Croatia,False,Lose
+2008-09-10,France,Serbia,11,33,0,0,2,1,France,False,Win
+2008-09-10,Mexico,Canada,24,81,0,0,2,1,Mexico,False,Win
+2008-09-10,Portugal,Denmark,9,36,0,0,2,3,Portugal,False,Lose
+2008-09-10,Uruguay,Ecuador,22,52,0,0,0,0,Uruguay,False,Draw
+2008-10-11,Argentina,Uruguay,7,20,0,0,2,1,Argentina,False,Win
+2008-10-14,France,Tunisia,11,47,0,0,3,1,France,False,Win
+2008-10-15,Australia,Qatar,34,78,0,0,4,0,Australia,False,Win
+2008-10-15,Belgium,Spain,51,1,0,0,1,2,Belgium,False,Lose
+2008-10-15,Canada,Mexico,84,24,0,0,2,2,Canada,False,Draw
+2008-10-15,Germany,Wales,3,61,0,0,1,0,Germany,False,Win
+2008-11-09,Qatar,IR Iran,78,48,0,0,0,1,Qatar,False,Lose
+2008-11-12,Mexico,Ecuador,25,31,0,0,2,1,USA,True,Win
+2008-11-19,Brazil,Portugal,5,10,0,0,6,2,Brazil,False,Win
+2008-11-19,Denmark,Wales,34,62,0,0,0,1,Denmark,False,Lose
+2008-11-19,France,Uruguay,12,23,0,0,0,0,France,False,Draw
+2008-11-19,Germany,England,2,10,0,0,1,2,Germany,False,Lose
+2008-11-19,Ghana,Tunisia,26,47,0,0,0,0,Ghana,False,Draw
+2008-11-19,Qatar,Japan,78,38,0,0,0,3,Qatar,False,Lose
+2008-11-19,Saudi Arabia,Korea Republic,52,53,0,0,0,2,Saudi Arabia,False,Lose
+2008-12-14,Serbia,Poland,30,32,0,0,0,1,Turkey,True,Lose
+2008-12-17,IR Iran,Ecuador,43,36,0,0,0,1,Oman,True,Lose
+2009-01-05,Saudi Arabia,Qatar,48,84,0,0,0,0,Oman,True,Draw
+2009-02-11,France,Argentina,11,6,0,0,0,2,France,False,Lose
+2009-02-11,IR Iran,Korea Republic,44,46,0,0,1,1,IR Iran,False,Draw
+2009-02-11,Japan,Australia,37,27,0,0,0,0,Japan,False,Draw
+2009-02-11,Spain,England,1,8,0,0,2,0,Spain,False,Win
+2009-02-11,Tunisia,Netherlands,53,3,0,0,1,1,Tunisia,False,Draw
+2009-02-11,USA,Mexico,20,24,0,0,2,0,USA,False,Win
+2009-02-11,Wales,Poland,65,28,0,0,0,1,Portugal,True,Lose
+2009-03-28,IR Iran,Saudi Arabia,42,55,0,0,1,2,IR Iran,False,Lose
+2009-03-28,Mexico,Costa Rica,23,32,0,0,2,0,Mexico,False,Win
+2009-03-29,Ecuador,Brazil,39,5,0,0,1,1,Ecuador,False,Draw
+2009-04-01,IR Iran,Senegal,42,60,0,0,1,1,IR Iran,False,Draw
+2009-04-01,Wales,Germany,68,2,0,0,0,2,Wales,False,Lose
+2009-05-26,Qatar,Saudi Arabia,96,55,0,0,2,1,Qatar,False,Win
+2009-05-31,Japan,Belgium,35,62,0,0,4,0,Japan,False,Win
+2009-06-03,Costa Rica,USA,41,14,0,0,3,1,Costa Rica,False,Win
+2009-06-06,Qatar,Australia,94,29,0,0,0,0,Qatar,False,Draw
+2009-06-06,Uruguay,Brazil,17,5,0,0,0,4,Uruguay,False,Lose
+2009-06-10,Ecuador,Argentina,44,7,0,0,2,0,Ecuador,False,Win
+2009-06-10,Japan,Qatar,31,94,0,0,1,1,Japan,False,Draw
+2009-06-10,Korea Republic,Saudi Arabia,46,56,0,0,0,0,Korea Republic,False,Draw
+2009-06-17,Australia,Japan,29,31,0,0,2,1,Australia,False,Win
+2009-06-17,Korea Republic,IR Iran,46,52,0,0,1,1,Korea Republic,False,Draw
+2009-06-18,USA,Brazil,14,5,0,0,0,3,South Africa,True,Lose
+2009-06-24,Spain,USA,1,14,0,0,0,2,South Africa,True,Lose
+2009-06-28,USA,Brazil,14,5,0,0,2,3,South Africa,True,Lose
+2009-07-10,Costa Rica,Canada,30,92,0,0,2,2,USA,True,Draw
+2009-07-23,Costa Rica,Mexico,30,33,0,0,1,1,USA,True,Draw
+2009-07-26,USA,Mexico,12,33,0,0,0,5,USA,False,Lose
+2009-08-12,Mexico,USA,30,12,0,0,2,1,Mexico,False,Win
+2009-08-12,Netherlands,England,3,7,0,0,2,2,Netherlands,False,Draw
+2009-09-05,Argentina,Brazil,8,1,0,0,1,3,Argentina,False,Lose
+2009-09-05,Costa Rica,Mexico,39,24,0,0,0,3,Costa Rica,False,Lose
+2009-09-05,Denmark,Portugal,16,17,0,0,1,1,Denmark,False,Draw
+2009-09-05,Korea Republic,Australia,49,14,0,0,3,1,Korea Republic,False,Win
+2009-09-05,Netherlands,Japan,3,40,0,0,3,0,Netherlands,False,Win
+2009-09-05,Spain,Belgium,2,68,0,0,5,0,Spain,False,Win
+2009-09-09,England,Croatia,7,9,0,0,5,1,England,False,Win
+2009-09-09,Japan,Ghana,40,32,0,0,4,3,Netherlands,True,Win
+2009-09-09,Serbia,France,13,10,0,0,1,1,Serbia,False,Draw
+2009-09-30,Argentina,Ghana,8,32,0,0,2,0,Argentina,False,Win
+2009-10-08,Croatia,Qatar,9,83,0,0,3,2,Croatia,False,Win
+2009-10-10,Australia,Netherlands,14,3,0,0,0,0,Australia,False,Draw
+2009-10-10,Ecuador,Uruguay,36,28,0,0,1,2,Ecuador,False,Lose
+2009-10-14,Korea Republic,Senegal,49,80,0,0,2,0,Korea Republic,False,Win
+2009-10-14,Tunisia,Saudi Arabia,50,65,0,0,0,1,Tunisia,False,Lose
+2009-10-14,Uruguay,Argentina,28,8,0,0,0,1,Uruguay,False,Lose
+2009-10-14,USA,Costa Rica,11,39,0,0,2,2,USA,False,Draw
+2009-11-14,Brazil,England,1,7,0,0,1,0,Qatar,True,Win
+2009-11-14,Costa Rica,Uruguay,43,25,0,0,0,1,Costa Rica,False,Lose
+2009-11-14,Denmark,Korea Republic,27,48,0,0,0,0,Denmark,False,Draw
+2009-11-14,Morocco,Cameroon,63,14,0,0,0,2,Morocco,False,Lose
+2009-11-14,Spain,Argentina,2,6,0,0,2,1,Spain,False,Win
+2009-11-17,Belgium,Qatar,68,94,0,0,2,0,France,True,Win
+2009-11-18,Denmark,USA,27,11,0,0,3,1,Denmark,False,Win
+2009-11-18,Korea Republic,Serbia,48,20,0,0,0,1,England,True,Lose
+2009-11-18,Poland,Canada,56,53,0,0,1,0,Poland,False,Win
+2009-11-18,Uruguay,Costa Rica,25,43,0,0,1,1,Uruguay,False,Draw
+2009-12-28,Qatar,IR Iran,86,64,0,0,3,2,Qatar,False,Win
+2010-01-21,Cameroon,Tunisia,11,53,0,0,2,2,Angola,True,Draw
+2010-01-26,Argentina,Costa Rica,8,44,0,0,3,2,Argentina,False,Win
+2010-02-14,Japan,Korea Republic,40,49,0,0,1,3,Japan,False,Lose
+2010-03-03,Belgium,Croatia,68,11,0,0,0,1,Belgium,False,Lose
+2010-03-03,France,Spain,7,1,0,0,0,2,France,False,Lose
+2010-03-03,Germany,Argentina,5,9,0,0,0,1,Germany,False,Lose
+2010-03-03,Netherlands,USA,3,18,0,0,2,1,Netherlands,False,Win
+2010-03-03,Switzerland,Uruguay,15,19,0,0,1,3,Switzerland,False,Lose
+2010-04-07,Japan,Serbia,45,15,0,0,0,3,Japan,False,Lose
+2010-05-07,Mexico,Ecuador,17,36,0,0,0,0,USA,True,Draw
+2010-05-10,Mexico,Senegal,17,77,0,0,1,0,USA,True,Win
+2010-05-16,Korea Republic,Ecuador,47,36,0,0,2,0,Korea Republic,False,Win
+2010-05-23,Croatia,Wales,9,75,0,0,2,0,Croatia,False,Win
+2010-05-24,Argentina,Canada,7,63,0,0,5,0,Argentina,False,Win
+2010-05-24,England,Mexico,8,17,0,0,3,1,England,False,Win
+2010-05-24,Japan,Korea Republic,45,47,0,0,0,2,Japan,False,Lose
+2010-05-26,France,Costa Rica,9,40,0,0,2,1,France,False,Win
+2010-05-26,Netherlands,Mexico,4,17,0,0,2,1,Germany,True,Win
+2010-05-27,Denmark,Senegal,36,75,0,0,2,0,Denmark,False,Win
+2010-05-29,Spain,Saudi Arabia,2,66,0,0,3,2,Austria,True,Win
+2010-05-30,Japan,England,45,8,0,0,1,2,Austria,True,Lose
+2010-05-30,Tunisia,France,55,9,0,0,1,1,Tunisia,False,Draw
+2010-06-01,Australia,Denmark,20,36,0,0,1,0,South Africa,True,Win
+2010-06-01,Netherlands,Ghana,4,32,0,0,4,1,Netherlands,False,Win
+2010-06-01,Portugal,Cameroon,3,19,0,0,3,1,Portugal,False,Win
+2010-06-01,Switzerland,Costa Rica,24,40,0,0,0,1,Switzerland,False,Lose
+2010-06-02,Serbia,Poland,15,58,0,0,0,0,Austria,True,Draw
+2010-06-03,Spain,Korea Republic,2,47,0,0,1,0,Austria,True,Win
+2010-06-05,Australia,USA,20,14,0,0,1,3,South Africa,True,Lose
+2010-06-05,Serbia,Cameroon,15,19,0,0,4,3,Serbia,False,Win
+2010-06-08,Spain,Poland,2,58,0,0,6,0,Spain,False,Win
+2010-06-11,Uruguay,France,16,9,0,0,0,0,South Africa,True,Draw
+2010-06-12,England,USA,8,14,0,0,1,1,South Africa,True,Draw
+2010-06-13,Germany,Australia,6,20,0,0,4,0,South Africa,True,Win
+2010-06-13,Serbia,Ghana,15,32,0,0,0,1,South Africa,True,Lose
+2010-06-14,Japan,Cameroon,45,19,0,0,1,0,South Africa,True,Win
+2010-06-14,Netherlands,Denmark,4,36,0,0,2,0,South Africa,True,Win
+2010-06-16,Spain,Switzerland,2,24,0,0,0,1,South Africa,True,Lose
+2010-06-17,Argentina,Korea Republic,7,47,0,0,4,1,South Africa,True,Win
+2010-06-17,France,Mexico,9,17,0,0,0,2,South Africa,True,Lose
+2010-06-18,Germany,Serbia,6,15,0,0,0,1,South Africa,True,Lose
+2010-06-19,Cameroon,Denmark,19,36,0,0,1,2,South Africa,True,Lose
+2010-06-19,Ghana,Australia,32,20,0,0,1,1,South Africa,True,Draw
+2010-06-19,Netherlands,Japan,4,45,0,0,1,0,South Africa,True,Win
+2010-06-22,Mexico,Uruguay,17,16,0,0,0,1,South Africa,True,Lose
+2010-06-23,Australia,Serbia,20,15,0,0,2,1,South Africa,True,Win
+2010-06-23,Ghana,Germany,32,6,0,0,0,1,South Africa,True,Lose
+2010-06-24,Cameroon,Netherlands,19,4,0,0,1,2,South Africa,True,Lose
+2010-06-24,Denmark,Japan,36,45,0,0,1,3,South Africa,True,Lose
+2010-06-25,Portugal,Brazil,3,1,0,0,0,0,South Africa,True,Draw
+2010-06-26,Uruguay,Korea Republic,16,47,0,0,2,1,South Africa,True,Win
+2010-06-26,USA,Ghana,14,32,0,0,1,2,South Africa,True,Lose
+2010-06-27,Argentina,Mexico,7,17,0,0,3,1,South Africa,True,Win
+2010-06-27,Germany,England,6,8,0,0,4,1,South Africa,True,Win
+2010-06-29,Spain,Portugal,2,3,0,0,1,0,South Africa,True,Win
+2010-07-02,Netherlands,Brazil,4,1,0,0,2,1,South Africa,True,Win
+2010-07-02,Uruguay,Ghana,16,32,0,0,1,1,South Africa,True,Draw
+2010-07-03,Argentina,Germany,7,6,0,0,0,4,South Africa,True,Lose
+2010-07-06,Uruguay,Netherlands,16,4,0,0,2,3,South Africa,True,Lose
+2010-07-07,Germany,Spain,6,2,0,0,0,1,South Africa,True,Lose
+2010-07-10,Uruguay,Germany,16,6,0,0,2,3,South Africa,True,Lose
+2010-07-11,Netherlands,Spain,4,2,0,0,0,1,South Africa,True,Lose
+2010-08-10,USA,Brazil,13,3,0,0,0,2,USA,False,Lose
+2010-08-11,Denmark,Germany,29,4,0,0,2,2,Denmark,False,Draw
+2010-08-11,Mexico,Spain,25,1,0,0,1,1,Mexico,False,Draw
+2010-08-11,Poland,Cameroon,56,40,0,0,0,3,Poland,False,Lose
+2010-09-03,Belgium,Germany,48,4,0,0,0,1,Belgium,False,Lose
+2010-09-03,Switzerland,Australia,17,20,0,0,0,0,Switzerland,False,Draw
+2010-09-04,Mexico,Ecuador,25,58,0,0,1,2,Mexico,False,Lose
+2010-09-07,Argentina,Spain,5,1,0,0,4,1,Argentina,False,Win
+2010-09-07,Korea Republic,IR Iran,44,65,0,0,0,1,Korea Republic,False,Lose
+2010-09-07,Poland,Australia,56,20,0,0,1,2,Poland,False,Lose
+2010-09-07,Switzerland,England,17,7,0,0,1,3,Switzerland,False,Lose
+2010-10-07,IR Iran,Brazil,57,4,0,0,0,3,United Arab Emirates,True,Lose
+2010-10-08,Japan,Argentina,30,5,0,0,1,0,Japan,False,Win
+2010-10-08,Portugal,Denmark,8,29,0,0,3,1,Portugal,False,Win
+2010-10-09,USA,Poland,18,66,0,0,2,2,USA,False,Draw
+2010-10-12,Ecuador,Poland,72,66,0,0,2,2,Canada,True,Draw
+2010-10-12,Korea Republic,Japan,44,30,0,0,0,0,Korea Republic,False,Draw
+2010-10-12,Switzerland,Wales,21,85,0,0,4,1,Switzerland,False,Win
+2010-11-17,Argentina,Brazil,5,3,0,0,1,0,Qatar,True,Win
+2010-11-17,England,France,6,21,0,0,1,2,England,False,Lose
+2010-11-17,Portugal,Spain,8,1,0,0,4,0,Portugal,False,Win
+2010-11-17,Saudi Arabia,Ghana,68,17,0,0,0,0,United Arab Emirates,True,Draw
+2010-11-28,Qatar,Saudi Arabia,113,68,0,0,1,1,Yemen,True,Draw
+2011-01-14,Australia,Korea Republic,26,38,0,0,1,1,Qatar,True,Draw
+2011-01-17,Saudi Arabia,Japan,78,29,0,0,0,5,Qatar,True,Lose
+2011-01-21,Qatar,Japan,105,29,0,0,2,3,Qatar,False,Lose
+2011-01-22,IR Iran,Korea Republic,65,38,0,0,0,1,Qatar,True,Lose
+2011-01-25,Japan,Korea Republic,29,38,0,0,2,2,Qatar,True,Draw
+2011-01-29,Australia,Japan,26,29,0,0,0,1,Qatar,True,Lose
+2011-02-09,Argentina,Portugal,5,8,0,0,2,1,Switzerland,True,Win
+2011-02-09,Denmark,England,28,6,0,0,1,2,Denmark,False,Lose
+2011-02-09,France,Brazil,19,4,0,0,1,0,France,False,Win
+2011-03-26,Senegal,Cameroon,69,42,0,0,1,0,Senegal,False,Win
+2011-03-26,USA,Argentina,19,4,0,0,1,1,USA,False,Draw
+2011-03-26,Wales,England,116,6,0,0,0,2,Wales,False,Lose
+2011-03-29,Costa Rica,Argentina,53,4,0,0,0,0,Costa Rica,False,Draw
+2011-03-29,England,Ghana,6,16,0,0,1,1,England,False,Draw
+2011-03-29,France,Croatia,18,8,0,0,0,0,France,False,Draw
+2011-03-29,Germany,Australia,3,20,0,0,1,2,Germany,False,Lose
+2011-04-20,Argentina,Ecuador,5,56,0,0,2,2,Argentina,False,Draw
+2011-05-28,Mexico,Ecuador,28,64,0,0,1,1,USA,True,Draw
+2011-05-29,Germany,Uruguay,4,7,0,0,2,1,Germany,False,Win
+2011-06-01,Canada,Ecuador,77,64,0,0,2,2,Canada,False,Draw
+2011-06-03,Korea Republic,Serbia,31,16,0,0,2,1,Korea Republic,False,Win
+2011-06-04,Brazil,Netherlands,3,2,0,0,0,0,Brazil,False,Draw
+2011-06-04,Cameroon,Senegal,49,40,0,0,0,0,Cameroon,False,Draw
+2011-06-04,England,Switzerland,6,25,0,0,2,2,England,False,Draw
+2011-06-04,USA,Spain,22,1,0,0,0,4,USA,False,Lose
+2011-06-05,Poland,Argentina,71,5,0,0,2,1,Poland,False,Win
+2011-06-07,Australia,Serbia,20,16,0,0,0,0,Australia,False,Draw
+2011-06-07,Korea Republic,Ghana,31,15,0,0,2,1,Korea Republic,False,Win
+2011-06-07,USA,Canada,22,77,0,0,2,0,USA,False,Win
+2011-06-08,Uruguay,Netherlands,7,2,0,0,1,1,Uruguay,False,Draw
+2011-06-09,Poland,France,71,19,0,0,0,1,Poland,False,Lose
+2011-06-12,Mexico,Costa Rica,28,56,0,0,4,1,USA,True,Win
+2011-06-25,USA,Mexico,22,28,0,0,2,4,USA,False,Lose
+2011-07-11,Argentina,Costa Rica,10,55,0,0,3,0,Argentina,False,Win
+2011-07-12,Uruguay,Mexico,18,9,0,0,1,0,Argentina,True,Win
+2011-07-13,Brazil,Ecuador,5,68,0,0,4,2,Argentina,True,Win
+2011-07-16,Argentina,Uruguay,10,18,0,0,1,1,Argentina,False,Draw
+2011-08-10,Costa Rica,Ecuador,56,67,0,0,0,2,Costa Rica,False,Lose
+2011-08-10,Germany,Brazil,3,4,0,0,3,2,Germany,False,Win
+2011-08-10,Japan,Korea Republic,14,28,0,0,3,0,Japan,False,Win
+2011-08-10,Senegal,Morocco,46,63,0,0,0,2,Senegal,False,Lose
+2011-08-10,USA,Mexico,30,20,0,0,1,1,USA,False,Draw
+2011-08-10,Wales,Australia,112,22,0,0,1,2,Wales,False,Lose
+2011-09-02,Poland,Mexico,65,20,498,863,1,1,Poland,False,Draw
+2011-09-02,USA,Costa Rica,28,60,791,530,0,1,USA,False,Lose
+2011-09-05,Brazil,Ghana,6,36,1156,725,1,0,England,True,Win
+2011-09-06,Belgium,USA,37,28,674,791,1,0,Belgium,False,Win
+2011-09-06,Ecuador,Costa Rica,66,60,491,530,4,0,Ecuador,False,Win
+2011-09-06,England,Wales,4,117,1176,250,1,0,England,False,Win
+2011-09-06,Poland,Germany,65,3,498,1329,2,2,Poland,False,Draw
+2011-09-06,Qatar,IR Iran,88,53,364,558,1,1,Qatar,False,Draw
+2011-09-06,Saudi Arabia,Australia,87,22,372,837,1,3,Saudi Arabia,False,Lose
+2011-09-14,Argentina,Brazil,9,6,1016,1156,0,0,Argentina,False,Draw
+2011-09-28,Brazil,Argentina,7,10,1131,1024,2,0,Brazil,False,Win
+2011-10-07,Costa Rica,Brazil,57,7,549,1131,0,1,Costa Rica,False,Lose
+2011-10-07,Korea Republic,Poland,29,65,749,495,2,2,Korea Republic,False,Draw
+2011-10-07,Wales,Switzerland,90,18,374,886,2,0,Wales,False,Win
+2011-10-11,Denmark,Portugal,17,5,893,1158,2,1,Denmark,False,Win
+2011-10-11,Germany,Belgium,3,34,1289,729,3,1,Germany,False,Win
+2011-10-11,Mexico,Brazil,20,7,866,1131,1,2,Mexico,False,Lose
+2011-10-11,USA,Ecuador,31,69,741,481,0,1,USA,False,Lose
+2011-11-11,France,USA,15,34,952,719,1,0,France,False,Win
+2011-11-11,Mexico,Serbia,22,23,859,854,2,0,Mexico,False,Win
+2011-11-11,Netherlands,Switzerland,2,18,1425,920,0,0,Netherlands,False,Draw
+2011-11-12,England,Spain,7,1,1100,1624,1,0,England,False,Win
+2011-11-13,Morocco,Cameroon,56,47,566,599,1,1,Morocco,False,Draw
+2011-11-15,Costa Rica,Spain,62,1,522,1624,2,2,Costa Rica,False,Draw
+2011-11-15,France,Belgium,15,37,952,669,0,0,France,False,Draw
+2011-11-15,Germany,Netherlands,3,2,1352,1425,3,0,Germany,False,Win
+2012-01-23,Morocco,Tunisia,61,59,523,541,1,2,Gabon,True,Lose
+2012-02-05,Ghana,Tunisia,26,59,778,541,2,1,Gabon,True,Win
+2012-02-29,Australia,Saudi Arabia,22,89,832,406,4,2,Australia,False,Win
+2012-02-29,England,Netherlands,5,3,1179,1359,2,3,England,False,Lose
+2012-02-29,Germany,France,2,17,1369,930,1,2,Germany,False,Lose
+2012-02-29,IR Iran,Qatar,47,96,605,372,2,2,IR Iran,False,Draw
+2012-02-29,Poland,Portugal,70,6,469,1155,0,0,Poland,False,Draw
+2012-02-29,Switzerland,Argentina,16,11,950,1080,1,3,Switzerland,False,Lose
+2012-02-29,Wales,Costa Rica,42,63,635,538,0,1,Wales,False,Lose
+2012-05-25,Morocco,Senegal,60,77,547,448,0,1,Morocco,False,Lose
+2012-05-26,Denmark,Brazil,10,6,1068,1165,1,3,Germany,True,Lose
+2012-05-26,Spain,Serbia,1,32,1442,725,2,0,Switzerland,True,Win
+2012-05-26,Switzerland,Germany,18,2,890,1344,5,3,Switzerland,False,Win
+2012-05-27,Mexico,Wales,20,41,867,635,2,0,USA,True,Win
+2012-05-30,Spain,Korea Republic,1,31,1442,745,4,1,Switzerland,True,Win
+2012-05-30,USA,Brazil,29,6,778,1165,1,4,USA,False,Lose
+2012-05-31,France,Serbia,16,32,938,725,2,0,France,False,Win
+2012-06-02,Argentina,Ecuador,9,37,1075,679,4,0,Argentina,False,Win
+2012-06-02,Denmark,Australia,10,21,1068,862,2,0,Denmark,False,Win
+2012-06-02,England,Belgium,7,44,1131,603,1,0,England,False,Win
+2012-06-03,Canada,USA,75,29,449,778,0,0,Canada,False,Draw
+2012-06-03,Mexico,Brazil,20,6,867,1165,2,0,USA,True,Win
+2012-06-08,Qatar,Korea Republic,91,35,371,718,1,4,Qatar,False,Lose
+2012-06-09,Brazil,Argentina,5,7,1154,1137,3,4,USA,True,Lose
+2012-06-09,Germany,Portugal,3,10,1288,995,1,0,Ukraine,True,Win
+2012-06-09,Netherlands,Denmark,4,9,1234,1019,0,1,Ukraine,True,Lose
+2012-06-11,France,England,14,6,963,1144,1,1,Ukraine,True,Draw
+2012-06-12,Australia,Japan,24,23,819,821,1,1,Australia,False,Draw
+2012-06-12,IR Iran,Qatar,45,91,596,371,0,0,IR Iran,False,Draw
+2012-06-13,Denmark,Portugal,9,10,1019,995,2,3,Ukraine,True,Lose
+2012-06-13,Netherlands,Germany,4,3,1234,1288,1,2,Ukraine,True,Lose
+2012-06-17,Denmark,Germany,9,3,1019,1288,1,2,Ukraine,True,Lose
+2012-06-17,Portugal,Netherlands,10,4,995,1234,2,1,Ukraine,True,Win
+2012-06-18,Croatia,Spain,8,1,1052,1456,0,1,Poland,True,Lose
+2012-06-18,Saudi Arabia,Morocco,92,70,368,491,4,0,Saudi Arabia,False,Win
+2012-06-23,Spain,France,1,14,1456,963,2,0,Ukraine,True,Win
+2012-06-27,Portugal,Spain,10,1,995,1456,0,0,Ukraine,True,Draw
+2012-08-15,Belgium,Netherlands,53,8,563,1053,4,2,Belgium,False,Win
+2012-08-15,Croatia,Switzerland,9,23,1050,828,2,4,Croatia,False,Lose
+2012-08-15,France,Uruguay,14,4,979,1236,0,0,France,False,Draw
+2012-08-15,Germany,Argentina,2,7,1473,1098,1,3,Germany,False,Lose
+2012-08-15,IR Iran,Tunisia,48,41,590,627,2,2,Hungary,True,Draw
+2012-08-15,Mexico,USA,18,36,861,672,0,1,Mexico,False,Lose
+2012-09-07,Costa Rica,Mexico,66,21,486,845,0,2,Costa Rica,False,Lose
+2012-09-07,Spain,Saudi Arabia,1,105,1617,328,5,0,Spain,False,Win
+2012-09-07,Wales,Belgium,45,40,615,625,0,2,Wales,False,Lose
+2012-09-11,Belgium,Croatia,40,9,625,1019,1,1,Belgium,False,Draw
+2012-09-11,Mexico,Costa Rica,21,66,845,486,1,0,Mexico,False,Win
+2012-09-11,Serbia,Wales,42,45,623,615,6,1,Serbia,False,Win
+2012-09-11,Uruguay,Ecuador,5,17,1216,889,1,1,Uruguay,False,Draw
+2012-09-19,Brazil,Argentina,12,7,996,1120,2,1,Brazil,False,Win
+2012-10-12,Argentina,Uruguay,4,7,1207,1139,3,0,Argentina,False,Win
+2012-10-12,France,Japan,13,23,1010,818,0,1,France,False,Lose
+2012-10-12,Serbia,Belgium,33,30,706,722,0,3,Serbia,False,Lose
+2012-10-16,Croatia,Wales,11,57,1022,550,2,0,Croatia,False,Win
+2012-10-16,IR Iran,Korea Republic,58,25,548,776,1,0,IR Iran,False,Win
+2012-10-16,Japan,Brazil,23,14,818,1000,0,4,Poland,True,Lose
+2012-10-16,Spain,France,1,13,1611,1010,1,1,Spain,False,Draw
+2012-10-17,Poland,England,54,5,573,1196,1,1,Poland,False,Draw
+2012-11-14,Korea Republic,Australia,32,33,727,718,1,2,Korea Republic,False,Lose
+2012-11-14,Netherlands,Germany,7,2,1128,1421,0,0,Netherlands,False,Draw
+2012-11-14,Poland,Uruguay,54,11,578,1047,1,3,Poland,False,Lose
+2012-11-14,Saudi Arabia,Argentina,112,3,313,1349,0,0,Saudi Arabia,False,Draw
+2012-11-14,Tunisia,Switzerland,46,16,608,966,1,2,Tunisia,False,Lose
+2012-11-21,Argentina,Brazil,3,13,1349,994,2,1,Argentina,False,Win
+2012-12-09,IR Iran,Saudi Arabia,44,112,610,313,0,0,Kuwait,True,Draw
+2013-01-13,Ghana,Tunisia,30,45,776,606,4,2,United Arab Emirates,True,Win
+2013-01-29,USA,Canada,28,64,781,517,0,0,USA,False,Draw
+2013-02-06,Croatia,Korea Republic,10,34,1064,686,4,0,England,True,Win
+2013-02-06,England,Brazil,6,18,1150,945,2,1,England,False,Win
+2013-02-06,France,Germany,17,2,949,1437,1,2,France,False,Lose
+2013-02-06,Portugal,Ecuador,7,12,1143,1006,2,3,Portugal,False,Lose
+2013-02-06,Spain,Uruguay,1,16,1605,974,3,1,Qatar,True,Win
+2013-03-22,Croatia,Serbia,9,35,1080,657,2,0,Croatia,False,Win
+2013-03-22,Japan,Canada,26,68,811,496,2,1,Qatar,True,Win
+2013-03-22,USA,Costa Rica,33,53,732,576,1,0,USA,False,Win
+2013-03-26,France,Spain,17,1,920,1609,0,1,France,False,Lose
+2013-03-26,Korea Republic,Qatar,47,98,601,364,2,1,Korea Republic,False,Win
+2013-03-26,Mexico,USA,15,33,995,732,0,0,Mexico,False,Draw
+2013-03-26,Wales,Croatia,71,9,491,1080,1,2,Wales,False,Lose
+2013-05-28,Canada,Costa Rica,80,48,456,615,0,1,Canada,False,Lose
+2013-05-29,Ecuador,Germany,10,2,1058,1428,2,4,USA,True,Lose
+2013-05-29,USA,Belgium,29,15,779,953,2,4,USA,False,Lose
+2013-06-02,Brazil,England,19,7,902,1134,2,2,Brazil,False,Draw
+2013-06-02,USA,Germany,29,2,779,1428,4,3,USA,False,Win
+2013-06-04,Japan,Australia,30,47,772,624,1,1,Japan,False,Draw
+2013-06-04,Qatar,IR Iran,101,57,345,538,0,1,Qatar,False,Lose
+2013-06-05,Uruguay,France,17,18,931,913,1,0,Uruguay,False,Win
+2013-06-07,Belgium,Serbia,12,36,1034,723,2,1,Belgium,False,Win
+2013-06-09,Brazil,France,22,18,872,922,3,0,Brazil,False,Win
+2013-06-10,Croatia,Portugal,4,6,1222,1136,0,1,Switzerland,True,Lose
+2013-06-11,Ecuador,Argentina,10,3,1065,1286,1,1,Ecuador,False,Draw
+2013-06-11,Mexico,Costa Rica,17,48,927,617,0,0,Mexico,False,Draw
+2013-06-15,Brazil,Japan,22,32,872,764,3,0,Brazil,False,Win
+2013-06-16,Spain,Uruguay,1,19,1614,913,2,1,Brazil,True,Win
+2013-06-18,Korea Republic,IR Iran,40,67,665,505,0,1,Korea Republic,False,Lose
+2013-06-19,Brazil,Mexico,22,17,872,927,2,0,Brazil,False,Win
+2013-06-22,Japan,Mexico,32,17,764,927,1,2,Brazil,True,Lose
+2013-06-26,Brazil,Uruguay,22,19,872,913,2,1,Brazil,False,Win
+2013-06-30,Brazil,Spain,22,1,872,1614,3,0,Brazil,False,Win
+2013-07-11,Mexico,Canada,20,88,879,413,2,0,USA,True,Win
+2013-07-13,Morocco,Tunisia,79,47,469,626,0,0,Morocco,False,Draw
+2013-07-16,USA,Costa Rica,22,39,865,688,1,0,USA,False,Win
+2013-07-20,Korea Republic,Australia,43,40,641,671,0,0,Korea Republic,False,Draw
+2013-07-25,Japan,Australia,37,40,689,671,3,2,Korea Republic,True,Win
+2013-07-28,Korea Republic,Japan,43,37,641,689,1,2,Korea Republic,False,Lose
+2013-08-14,Belgium,France,10,23,1079,838,0,0,Belgium,False,Draw
+2013-08-14,Ecuador,Spain,17,1,972,1483,0,2,Ecuador,False,Lose
+2013-08-14,Japan,Uruguay,37,12,695,998,2,4,Japan,False,Lose
+2013-08-14,Poland,Denmark,72,27,493,787,3,2,Poland,False,Win
+2013-08-14,Portugal,Netherlands,7,5,1099,1165,1,1,Portugal,False,Draw
+2013-08-14,Switzerland,Brazil,15,9,987,1089,1,0,Switzerland,False,Win
+2013-09-06,Costa Rica,USA,42,19,650,959,3,1,Costa Rica,False,Win
+2013-09-06,Serbia,Croatia,41,8,660,1098,1,1,Serbia,False,Draw
+2013-09-07,Brazil,Australia,9,46,1089,629,6,0,Brazil,False,Win
+2013-09-10,Brazil,Portugal,9,7,1089,1099,3,1,USA,True,Win
+2013-09-10,Japan,Ghana,37,24,695,829,3,1,Japan,False,Win
+2013-09-10,Korea Republic,Croatia,56,8,593,1098,1,2,Korea Republic,False,Lose
+2013-09-10,USA,Mexico,19,20,959,879,2,0,USA,False,Win
+2013-09-10,Wales,Serbia,46,41,629,660,0,3,Wales,False,Lose
+2013-10-11,Croatia,Belgium,10,6,1050,1159,1,2,Croatia,False,Lose
+2013-10-11,Ecuador,Uruguay,20,7,851,1125,1,0,Ecuador,False,Win
+2013-10-11,France,Australia,25,53,812,602,6,0,France,False,Win
+2013-10-11,Serbia,Japan,43,42,666,671,2,0,Serbia,False,Win
+2013-10-12,Korea Republic,Brazil,58,8,573,1066,0,2,Korea Republic,False,Lose
+2013-10-13,Tunisia,Cameroon,46,61,642,557,0,0,Tunisia,False,Draw
+2013-10-15,Australia,Canada,53,106,602,323,3,0,England,True,Win
+2013-10-15,Belgium,Wales,6,52,1159,605,1,1,Belgium,False,Draw
+2013-10-15,Costa Rica,Mexico,33,21,733,836,2,1,Costa Rica,False,Win
+2013-10-15,England,Poland,17,65,946,538,2,0,England,False,Win
+2013-10-15,Uruguay,Argentina,7,2,1125,1262,3,2,Uruguay,False,Win
+2013-11-15,Argentina,Ecuador,3,22,1266,861,0,0,USA,True,Draw
+2013-11-15,Korea Republic,Switzerland,56,7,568,1137,2,1,Korea Republic,False,Win
+2013-11-16,Netherlands,Japan,8,44,1135,634,2,2,Belgium,True,Draw
+2013-11-17,Cameroon,Tunisia,59,47,554,631,4,1,Cameroon,False,Win
+2013-11-19,Australia,Costa Rica,57,31,563,743,1,0,Australia,False,Win
+2013-11-19,Belgium,Japan,5,44,1175,634,2,3,Belgium,False,Lose
+2013-11-19,England,Germany,10,2,1079,1310,0,1,England,False,Lose
+2013-12-31,Qatar,Saudi Arabia,103,87,324,391,4,1,Qatar,False,Win
+2014-01-25,Costa Rica,Korea Republic,32,53,743,581,0,1,USA,True,Lose
+2014-01-29,Mexico,Korea Republic,21,53,891,581,4,0,USA,True,Win
+2014-02-01,USA,Korea Republic,14,53,1018,581,2,0,USA,False,Win
+2014-03-05,Australia,Ecuador,53,24,575,831,3,4,England,True,Lose
+2014-03-05,England,Denmark,15,20,1031,907,1,0,England,False,Win
+2014-03-05,France,Netherlands,18,10,917,1121,2,0,France,False,Win
+2014-03-05,Portugal,Cameroon,4,46,1219,626,5,1,Portugal,False,Win
+2014-03-05,Switzerland,Croatia,6,16,1158,966,2,2,Switzerland,False,Draw
+2014-05-13,Germany,Poland,2,72,1340,478,0,0,Germany,False,Draw
+2014-05-17,Netherlands,Ecuador,15,28,967,794,1,1,Netherlands,False,Draw
+2014-05-28,Korea Republic,Tunisia,55,49,550,596,0,1,Korea Republic,False,Lose
+2014-05-31,Mexico,Ecuador,19,28,877,794,3,1,USA,True,Win
+2014-05-31,Netherlands,Ghana,15,38,967,712,1,0,Netherlands,False,Win
+2014-06-01,Germany,Cameroon,2,50,1340,582,2,2,Germany,False,Draw
+2014-06-02,Costa Rica,Japan,34,47,747,613,1,3,USA,True,Lose
+2014-06-04,Ecuador,England,28,11,794,1042,2,2,USA,True,Draw
+2014-06-04,Netherlands,Wales,15,47,967,613,2,0,Netherlands,False,Win
+2014-06-06,Brazil,Serbia,3,30,1242,745,1,0,Brazil,False,Win
+2014-06-06,Croatia,Australia,18,62,903,525,1,0,Brazil,True,Win
+2014-06-06,Mexico,Portugal,20,4,881,1189,0,1,USA,True,Lose
+2014-06-07,Belgium,Tunisia,11,48,1073,611,1,0,Belgium,False,Win
+2014-06-09,Ghana,Korea Republic,37,57,704,546,4,0,USA,True,Win
+2014-06-12,Brazil,Croatia,3,18,1242,903,3,1,Brazil,False,Win
+2014-06-13,Mexico,Cameroon,20,56,881,558,1,0,Brazil,True,Win
+2014-06-13,Spain,Netherlands,1,15,1484,981,1,5,Brazil,True,Lose
+2014-06-14,Uruguay,Costa Rica,7,28,1147,762,1,3,Brazil,True,Lose
+2014-06-15,Switzerland,Ecuador,6,26,1148,791,2,1,Brazil,True,Win
+2014-06-16,Germany,Portugal,2,4,1299,1189,4,0,Brazil,True,Win
+2014-06-16,Ghana,USA,37,13,704,1034,1,2,Brazil,True,Lose
+2014-06-17,Brazil,Mexico,3,20,1242,881,0,0,Brazil,False,Draw
+2014-06-18,Australia,Netherlands,62,15,525,981,2,3,Brazil,True,Lose
+2014-06-18,Cameroon,Croatia,56,18,558,903,0,4,Brazil,True,Lose
+2014-06-19,Uruguay,England,7,10,1147,1090,2,1,Brazil,True,Win
+2014-06-20,Switzerland,France,6,17,1148,913,2,5,Brazil,True,Lose
+2014-06-21,Argentina,IR Iran,5,43,1174,641,1,0,Brazil,True,Win
+2014-06-21,Germany,Ghana,2,37,1299,704,2,2,Brazil,True,Draw
+2014-06-22,USA,Portugal,13,4,1034,1189,2,2,Brazil,True,Draw
+2014-06-23,Australia,Spain,62,1,525,1484,0,3,Brazil,True,Lose
+2014-06-23,Brazil,Cameroon,3,56,1242,558,4,1,Brazil,False,Win
+2014-06-23,Croatia,Mexico,18,20,903,881,1,3,Brazil,True,Lose
+2014-06-24,Costa Rica,England,28,10,762,1090,0,0,Brazil,True,Draw
+2014-06-25,Ecuador,France,26,17,791,913,0,0,Brazil,True,Draw
+2014-06-26,Korea Republic,Belgium,57,11,546,1073,0,1,Brazil,True,Lose
+2014-06-26,Portugal,Ghana,4,37,1189,704,2,1,Brazil,True,Win
+2014-06-26,USA,Germany,13,2,1034,1299,0,1,Brazil,True,Lose
+2014-06-29,Netherlands,Mexico,15,20,981,881,2,1,Brazil,True,Win
+2014-07-01,Argentina,Switzerland,5,6,1174,1148,1,0,Brazil,True,Win
+2014-07-01,Belgium,USA,11,13,1073,1034,2,1,Brazil,True,Win
+2014-07-04,France,Germany,17,2,913,1299,0,1,Brazil,True,Lose
+2014-07-05,Argentina,Belgium,5,11,1174,1073,1,0,Brazil,True,Win
+2014-07-05,Netherlands,Costa Rica,15,28,981,762,0,0,Brazil,True,Draw
+2014-07-08,Brazil,Germany,3,2,1242,1299,1,7,Brazil,False,Lose
+2014-07-09,Netherlands,Argentina,15,5,981,1174,0,0,Brazil,True,Draw
+2014-07-12,Brazil,Netherlands,3,15,1242,981,0,3,Brazil,False,Lose
+2014-07-13,Germany,Argentina,2,5,1299,1174,1,0,Brazil,True,Win
+2014-09-03,Germany,Argentina,1,2,1735,1604,2,4,Germany,False,Lose
+2014-09-03,Morocco,Qatar,81,92,381,348,0,0,Morocco,False,Draw
+2014-09-04,Belgium,Australia,5,79,1406,391,2,0,Belgium,False,Win
+2014-09-04,France,Spain,10,7,1211,1240,1,0,France,False,Win
+2014-09-05,Japan,Uruguay,44,6,593,1315,0,2,Japan,False,Lose
+2014-09-07,Serbia,France,31,10,723,1211,1,1,Serbia,False,Draw
+2014-09-08,Australia,Saudi Arabia,79,83,391,376,3,2,England,True,Win
+2014-09-08,Korea Republic,Uruguay,57,6,499,1315,0,1,Korea Republic,False,Lose
+2014-09-08,Switzerland,England,9,20,1218,915,0,2,Switzerland,False,Lose
+2014-10-10,Saudi Arabia,Uruguay,82,7,401,1242,1,1,Saudi Arabia,False,Draw
+2014-10-10,Senegal,Tunisia,36,31,644,700,0,0,Senegal,False,Draw
+2014-10-11,Argentina,Brazil,2,6,1630,1291,0,2,China PR,True,Lose
+2014-10-11,France,Portugal,9,11,1201,1149,2,1,France,False,Win
+2014-10-11,Poland,Germany,70,1,435,1765,2,0,Poland,False,Win
+2014-10-14,Denmark,Portugal,27,11,832,1149,0,1,Denmark,False,Lose
+2014-10-14,Japan,Brazil,48,6,557,1291,0,4,Singapore,True,Lose
+2014-10-14,Korea Republic,Costa Rica,63,15,500,987,1,3,Korea Republic,False,Lose
+2014-10-14,Qatar,Australia,96,84,341,390,1,0,Qatar,False,Win
+2014-10-15,Tunisia,Senegal,31,36,700,644,1,0,Tunisia,False,Win
+2014-11-12,Argentina,Croatia,2,14,1564,1001,2,1,England,True,Win
+2014-11-12,Netherlands,Mexico,5,17,1374,954,2,3,Netherlands,False,Lose
+2014-11-13,Saudi Arabia,Qatar,97,88,340,368,1,1,Saudi Arabia,False,Draw
+2014-11-13,Uruguay,Costa Rica,8,16,1184,974,3,3,Uruguay,False,Draw
+2014-11-14,Serbia,Denmark,46,32,613,763,1,3,Serbia,False,Lose
+2014-11-16,Belgium,Wales,4,34,1388,715,0,0,Belgium,False,Draw
+2014-11-18,IR Iran,Korea Republic,51,66,560,495,1,0,IR Iran,False,Win
+2014-11-18,Japan,Australia,52,94,558,359,2,1,Japan,False,Win
+2014-11-18,Portugal,Argentina,9,2,1174,1564,1,0,England,True,Win
+2014-11-18,Spain,Germany,10,1,1118,1668,0,1,Spain,False,Lose
+2014-11-26,Saudi Arabia,Qatar,97,88,340,368,1,2,Saudi Arabia,False,Lose
+2015-01-04,Korea Republic,Saudi Arabia,69,102,480,323,2,0,Australia,True,Win
+2015-01-15,Qatar,IR Iran,92,51,346,588,0,1,Australia,True,Lose
+2015-01-17,Australia,Korea Republic,100,69,328,487,0,1,Australia,False,Lose
+2015-01-19,Ghana,Senegal,37,35,713,733,1,2,Equatorial Guinea,True,Lose
+2015-01-31,Australia,Korea Republic,100,69,328,487,2,1,Australia,False,Win
+2015-03-25,Denmark,USA,28,32,863,827,3,2,Denmark,False,Win
+2015-03-25,Germany,Australia,1,65,1770,549,2,2,Germany,False,Draw
+2015-03-26,France,Brazil,8,6,1179,1348,1,3,France,False,Lose
+2015-03-27,Japan,Tunisia,53,25,617,881,2,0,Japan,False,Win
+2015-03-28,Ghana,Senegal,24,36,887,771,1,2,France,True,Lose
+2015-03-28,Morocco,Uruguay,89,9,378,1164,0,1,Morocco,False,Lose
+2015-03-29,France,Denmark,8,28,1179,863,2,0,France,False,Win
+2015-03-29,Portugal,Serbia,7,40,1190,709,2,1,Portugal,False,Win
+2015-03-31,Netherlands,Spain,5,11,1414,1130,2,0,Netherlands,False,Win
+2015-03-31,Switzerland,USA,12,32,1126,827,1,1,Switzerland,False,Draw
+2015-04-15,USA,Mexico,27,18,815,937,2,0,USA,False,Win
+2015-06-05,Netherlands,USA,6,27,1377,823,3,4,Netherlands,False,Lose
+2015-06-07,Brazil,Mexico,5,23,1392,926,2,0,Brazil,False,Win
+2015-06-07,France,Belgium,9,2,1163,1508,3,4,France,False,Lose
+2015-06-10,Germany,USA,1,27,1775,823,1,2,Germany,False,Lose
+2015-06-11,Spain,Costa Rica,10,14,1147,1056,2,1,Spain,False,Win
+2015-06-12,Wales,Belgium,22,2,929,1508,1,0,Wales,False,Win
+2015-06-13,Denmark,Serbia,29,45,807,672,2,0,Denmark,False,Win
+2015-06-15,Morocco,Tunisia,92,29,368,807,1,1,Morocco,False,Draw
+2015-06-16,Argentina,Uruguay,3,8,1496,1183,1,0,Chile,True,Win
+2015-06-19,Mexico,Ecuador,23,31,926,806,1,2,Chile,True,Lose
+2015-06-27,Mexico,Costa Rica,23,14,926,1056,2,2,USA,True,Draw
+2015-07-14,Canada,Costa Rica,103,41,328,695,0,0,Canada,False,Draw
+2015-07-19,Mexico,Costa Rica,40,41,696,695,1,0,USA,True,Win
+2015-08-05,Japan,Korea Republic,50,52,620,607,1,1,China PR,True,Draw
+2015-09-04,Germany,Poland,3,34,1248,764,3,1,Germany,False,Win
+2015-09-04,Portugal,France,6,24,1185,893,0,1,Portugal,False,Lose
+2015-09-05,Costa Rica,Brazil,39,5,730,1208,0,1,USA,True,Lose
+2015-09-07,France,Serbia,24,66,893,528,2,1,France,False,Win
+2015-09-08,England,Switzerland,10,17,1142,1011,2,0,England,False,Win
+2015-09-08,Mexico,Argentina,26,1,847,1441,2,2,USA,True,Draw
+2015-10-08,Argentina,Ecuador,1,31,1419,764,0,2,Argentina,False,Lose
+2015-10-08,Portugal,Denmark,4,28,1234,835,1,0,Portugal,False,Win
+2015-10-10,USA,Mexico,29,27,807,842,2,3,USA,False,Lose
+2015-10-11,Denmark,France,28,22,835,899,1,2,Denmark,False,Lose
+2015-10-11,Serbia,Portugal,63,4,537,1234,1,2,Serbia,False,Lose
+2015-10-13,IR Iran,Japan,39,55,703,581,1,1,IR Iran,False,Draw
+2015-10-25,Tunisia,Morocco,36,80,722,407,2,3,Tunisia,False,Lose
+2015-11-12,Ecuador,Uruguay,21,12,920,1050,2,1,Ecuador,False,Win
+2015-11-13,Argentina,Brazil,3,8,1382,1207,1,1,Argentina,False,Draw
+2015-11-13,France,Germany,24,2,881,1388,2,0,France,False,Win
+2015-11-13,Spain,England,6,9,1286,1179,2,0,Spain,False,Win
+2015-11-13,Wales,Netherlands,15,16,1031,975,2,3,Wales,False,Lose
+2015-11-17,England,France,9,24,1179,881,2,0,England,False,Win
+2016-03-23,Poland,Serbia,31,50,789,595,1,0,Poland,False,Win
+2016-03-25,Brazil,Uruguay,6,11,1254,1082,2,2,Brazil,False,Draw
+2016-03-25,Canada,Mexico,87,22,384,902,0,3,Canada,False,Lose
+2016-03-25,Netherlands,France,15,24,997,871,2,3,Netherlands,False,Lose
+2016-03-26,Germany,England,4,9,1355,1111,2,3,Germany,False,Lose
+2016-03-29,England,Netherlands,9,15,1111,997,1,2,England,False,Lose
+2016-03-29,Mexico,Canada,22,87,902,384,2,0,Mexico,False,Win
+2016-03-29,Portugal,Belgium,7,1,1233,1505,2,1,Portugal,False,Win
+2016-05-27,England,Australia,10,50,1069,600,2,1,England,False,Win
+2016-05-28,Switzerland,Belgium,14,2,974,1364,1,2,Switzerland,False,Lose
+2016-05-30,France,Cameroon,21,63,906,556,3,2,France,False,Win
+2016-06-01,Poland,Netherlands,27,17,821,930,1,2,Poland,False,Lose
+2016-06-01,Spain,Korea Republic,6,54,1276,591,6,1,Austria,True,Win
+2016-06-02,England,Portugal,11,8,1069,1181,1,0,England,False,Win
+2016-06-04,Brazil,Ecuador,7,13,1256,978,0,0,USA,True,Draw
+2016-06-05,Mexico,Uruguay,16,9,941,1149,3,1,USA,True,Win
+2016-06-07,USA,Costa Rica,31,23,802,852,4,0,USA,False,Win
+2016-06-16,England,Wales,11,26,1069,846,2,1,France,True,Win
+2016-06-16,Germany,Poland,4,27,1310,842,0,0,France,True,Draw
+2016-06-16,USA,Ecuador,31,13,802,978,2,1,USA,False,Win
+2016-06-19,France,Switzerland,17,15,924,947,0,0,France,False,Draw
+2016-06-21,Croatia,Spain,27,6,842,1266,2,1,France,True,Win
+2016-06-21,USA,Argentina,31,1,802,1503,0,4,USA,False,Lose
+2016-06-25,Croatia,Portugal,27,8,842,1181,0,1,France,True,Lose
+2016-06-25,Switzerland,Poland,15,27,947,842,1,1,France,True,Draw
+2016-06-30,Poland,Portugal,27,8,842,1181,1,1,France,True,Draw
+2016-07-01,Wales,Belgium,26,2,846,1383,3,1,France,True,Win
+2016-07-06,Portugal,Wales,8,26,1181,846,2,0,France,True,Win
+2016-07-07,France,Germany,17,4,924,1310,2,0,France,False,Win
+2016-07-10,France,Portugal,17,8,924,1181,0,1,France,False,Lose
+2016-09-01,Argentina,Uruguay,1,12,1584,1129,1,0,Argentina,False,Win
+2016-09-01,Belgium,Spain,2,8,1400,1165,0,2,Belgium,False,Lose
+2016-09-01,Ecuador,Brazil,17,9,1001,1155,0,3,Ecuador,False,Lose
+2016-09-01,IR Iran,Qatar,39,80,674,424,2,0,IR Iran,False,Win
+2016-09-06,Switzerland,Portugal,18,6,957,1265,2,0,Switzerland,False,Win
+2016-09-29,Qatar,Serbia,85,50,389,602,3,0,Qatar,False,Win
+2016-10-06,Korea Republic,Qatar,47,85,634,389,3,2,Korea Republic,False,Win
+2016-10-06,Saudi Arabia,Australia,52,45,588,643,2,2,Saudi Arabia,False,Draw
+2016-10-08,Poland,Denmark,17,46,983,636,3,2,Poland,False,Win
+2016-10-10,Netherlands,France,24,8,860,1188,0,1,Netherlands,False,Lose
+2016-10-11,Australia,Japan,45,56,643,573,1,1,Australia,False,Draw
+2016-10-11,IR Iran,Korea Republic,37,47,712,634,1,0,IR Iran,False,Win
+2016-10-11,Morocco,Canada,58,103,569,328,4,0,Morocco,False,Win
+2016-11-09,Netherlands,Belgium,20,4,901,1382,1,1,Netherlands,False,Draw
+2016-11-10,Brazil,Argentina,3,1,1409,1621,3,0,Brazil,False,Win
+2016-11-10,Uruguay,Ecuador,9,19,1174,932,2,1,Uruguay,False,Win
+2016-11-11,Korea Republic,Canada,44,110,640,322,2,0,Korea Republic,False,Win
+2016-11-11,USA,Mexico,24,17,852,1000,1,2,USA,False,Lose
+2016-11-12,Wales,Serbia,11,43,1113,650,1,1,Wales,False,Draw
+2016-11-15,Costa Rica,USA,18,24,971,852,4,0,Costa Rica,False,Win
+2016-11-15,England,Spain,12,10,1090,1167,2,2,England,False,Draw
+2016-11-15,Japan,Saudi Arabia,51,54,601,593,2,1,Japan,False,Win
+2017-01-15,Tunisia,Senegal,36,33,713,742,0,2,Gabon,True,Lose
+2017-01-28,Senegal,Cameroon,33,62,742,551,0,0,Gabon,True,Draw
+2017-01-29,USA,Serbia,28,45,822,646,0,0,USA,False,Draw
+2017-02-02,Cameroon,Ghana,62,54,551,610,2,0,Gabon,True,Win
+2017-03-22,Germany,England,3,14,1443,1113,1,0,Germany,False,Win
+2017-03-23,Qatar,IR Iran,84,33,415,793,0,1,Qatar,False,Lose
+2017-03-23,Uruguay,Brazil,9,2,1199,1533,1,4,Uruguay,False,Lose
+2017-03-24,Mexico,Costa Rica,17,19,1025,953,2,0,Mexico,False,Win
+2017-03-24,Tunisia,Cameroon,37,32,774,795,0,1,Tunisia,False,Lose
+2017-03-28,France,Spain,6,10,1317,1161,0,2,France,False,Lose
+2017-03-28,Morocco,Tunisia,49,37,660,774,1,0,Morocco,False,Win
+2017-05-28,Mexico,Croatia,16,18,1075,1016,1,2,USA,True,Lose
+2017-05-31,Morocco,Netherlands,53,32,632,791,1,2,Morocco,False,Lose
+2017-06-06,Denmark,Germany,51,3,660,1511,1,1,Denmark,False,Draw
+2017-06-08,Australia,Saudi Arabia,48,53,681,635,3,2,Australia,False,Win
+2017-06-09,Argentina,Brazil,2,1,1626,1715,1,0,Australia,True,Win
+2017-06-10,Cameroon,Morocco,32,56,811,631,1,0,Cameroon,False,Win
+2017-06-11,Mexico,USA,17,23,1049,861,1,1,Mexico,False,Draw
+2017-06-11,Serbia,Wales,50,13,665,1119,1,1,Serbia,False,Draw
+2017-06-13,Australia,Brazil,48,1,681,1715,0,4,Australia,False,Lose
+2017-06-13,France,England,6,13,1332,1119,3,2,France,False,Win
+2017-06-13,Qatar,Korea Republic,88,43,374,703,3,2,Qatar,False,Win
+2017-06-18,Portugal,Mexico,8,17,1266,1049,2,2,Russia,True,Draw
+2017-06-19,Australia,Germany,48,3,681,1511,2,3,Russia,True,Lose
+2017-06-22,Cameroon,Australia,32,48,811,681,1,1,Russia,True,Draw
+2017-06-25,Germany,Cameroon,3,32,1511,811,3,1,Russia,True,Win
+2017-06-29,Germany,Mexico,3,17,1511,1049,4,1,Russia,True,Win
+2017-07-01,USA,Ghana,23,49,861,678,2,1,USA,False,Win
+2017-07-02,Portugal,Mexico,8,17,1266,1049,2,1,Russia,True,Win
+2017-07-11,Costa Rica,Canada,26,100,838,330,1,1,USA,True,Draw
+2017-07-22,USA,Costa Rica,35,26,751,838,2,0,USA,False,Win
+2017-08-31,Brazil,Ecuador,1,32,1604,791,2,0,Brazil,False,Win
+2017-08-31,France,Netherlands,10,36,1157,734,4,0,France,False,Win
+2017-08-31,Japan,Australia,44,45,696,690,2,0,Japan,False,Win
+2017-08-31,Korea Republic,IR Iran,49,24,673,893,0,0,Korea Republic,False,Draw
+2017-08-31,Uruguay,Argentina,17,3,995,1399,0,0,Uruguay,False,Draw
+2017-09-01,Denmark,Poland,46,5,683,1318,4,0,Denmark,False,Win
+2017-09-01,USA,Costa Rica,26,21,865,917,0,2,USA,False,Lose
+2017-09-05,Costa Rica,Mexico,21,14,917,1045,1,1,Costa Rica,False,Draw
+2017-09-05,Saudi Arabia,Japan,59,44,600,696,1,0,Saudi Arabia,False,Win
+2017-10-10,Ecuador,Argentina,35,4,767,1325,1,3,Ecuador,False,Lose
+2017-10-10,Korea Republic,Morocco,51,56,659,635,1,3,Switzerland,True,Lose
+2017-10-10,Portugal,Switzerland,3,7,1386,1210,2,0,Portugal,False,Win
+2017-10-10,Saudi Arabia,Ghana,53,52,641,646,0,3,Saudi Arabia,False,Lose
+2017-11-10,Belgium,Mexico,5,16,1332,1059,3,3,Belgium,False,Draw
+2017-11-10,England,Germany,12,1,1115,1631,0,0,England,False,Draw
+2017-11-10,France,Wales,7,14,1226,1072,2,0,France,False,Win
+2017-11-10,Japan,Brazil,44,2,711,1618,1,3,France,True,Lose
+2017-11-10,Poland,Uruguay,6,17,1322,1033,0,0,Poland,False,Draw
+2017-11-10,Portugal,Saudi Arabia,3,63,1446,576,3,0,Portugal,False,Win
+2017-11-11,Spain,Costa Rica,8,22,1217,913,5,0,Spain,False,Win
+2017-11-13,Poland,Mexico,6,16,1322,1059,0,1,Poland,False,Lose
+2017-11-14,Belgium,Japan,5,44,1332,711,1,0,Belgium,False,Win
+2017-11-14,England,Brazil,12,2,1115,1618,0,0,England,False,Draw
+2017-11-14,Germany,France,1,7,1631,1226,2,2,Germany,False,Draw
+2017-11-14,Korea Republic,Serbia,62,38,588,748,1,1,Korea Republic,False,Draw
+2017-11-14,Portugal,USA,3,27,1446,842,1,1,Portugal,False,Draw
+2017-12-16,Japan,Korea Republic,55,59,622,563,1,4,Japan,False,Lose
+2018-03-23,Germany,Spain,1,6,1609,1228,1,1,Germany,False,Draw
+2018-03-23,Netherlands,England,21,16,963,1046,0,1,Netherlands,False,Lose
+2018-03-23,Serbia,Morocco,34,42,779,693,1,2,Italy,True,Lose
+2018-03-23,Tunisia,IR Iran,23,33,919,791,1,0,Tunisia,False,Win
+2018-03-26,Portugal,Netherlands,3,21,1360,963,0,3,Switzerland,True,Lose
+2018-03-26,Wales,Uruguay,20,22,983,931,0,1,China PR,True,Lose
+2018-03-27,Belgium,Saudi Arabia,5,69,1336,493,4,0,Belgium,False,Win
+2018-03-27,Germany,Brazil,1,2,1609,1489,0,1,Germany,False,Lose
+2018-03-27,Mexico,Croatia,17,15,1038,1052,0,1,USA,True,Lose
+2018-03-27,Poland,Korea Republic,6,59,1228,553,3,2,Poland,False,Win
+2018-03-27,Spain,Argentina,6,4,1228,1359,6,1,Spain,False,Win
+2018-03-27,Tunisia,Costa Rica,23,26,919,871,1,0,France,True,Win
+2018-05-28,Portugal,Tunisia,4,14,1306,1012,2,2,Portugal,False,Draw
+2018-05-28,Mexico,Wales,15,21,1008,931,0,0,USA,True,Draw
+2018-05-30,Japan,Ghana,60,50,528,602,0,2,Japan,False,Lose
+2018-06-02,Belgium,Portugal,3,4,1345,1306,0,0,Belgium,False,Draw
+2018-06-03,Spain,Switzerland,8,6,1161,1179,1,1,Spain,False,Draw
+2018-06-03,Croatia,Brazil,18,2,975,1384,0,2,England,True,Lose
+2018-06-07,England,Costa Rica,12,23,1050,884,2,0,England,False,Win
+2018-06-08,Germany,Saudi Arabia,1,67,1558,465,2,1,Germany,False,Win
+2018-06-08,Croatia,Senegal,20,27,945,837,2,1,Croatia,False,Win
+2018-06-08,Switzerland,Japan,6,61,1198,520,2,0,Switzerland,False,Win
+2018-06-09,Denmark,Mexico,12,15,1051,989,2,0,Denmark,False,Win
+2018-06-09,Tunisia,Spain,21,10,909,1125,0,1,Russia,True,Lose
+2018-06-09,France,USA,7,25,1198,872,1,1,France,False,Draw
+2018-06-11,Korea Republic,Senegal,57,27,543,837,0,2,Austria,True,Lose
+2018-06-11,Belgium,Costa Rica,3,23,1298,884,4,1,Belgium,False,Win
+2018-06-15,Morocco,IR Iran,41,37,685,708,0,1,Russia,True,Lose
+2018-06-15,Portugal,Spain,4,10,1273,1125,3,3,Russia,True,Draw
+2018-06-16,France,Australia,7,36,1198,718,2,1,Russia,True,Win
+2018-06-17,Costa Rica,Serbia,23,34,884,750,0,1,Russia,True,Lose
+2018-06-17,Germany,Mexico,1,15,1558,989,0,1,Russia,True,Lose
+2018-06-17,Brazil,Switzerland,2,6,1430,1198,1,1,Russia,True,Draw
+2018-06-18,Tunisia,England,21,12,909,1050,1,2,Russia,True,Lose
+2018-06-19,Poland,Senegal,8,27,1182,837,1,2,Russia,True,Lose
+2018-06-20,Portugal,Morocco,4,41,1273,685,1,0,Russia,True,Win
+2018-06-20,Uruguay,Saudi Arabia,14,67,1018,465,1,0,Russia,True,Win
+2018-06-20,IR Iran,Spain,37,10,708,1125,0,1,Russia,True,Lose
+2018-06-21,Denmark,Australia,12,36,1051,718,1,1,Russia,True,Draw
+2018-06-21,Argentina,Croatia,5,20,1241,945,0,3,Russia,True,Lose
+2018-06-22,Brazil,Costa Rica,2,23,1430,884,2,0,Russia,True,Win
+2018-06-22,Serbia,Switzerland,34,6,750,1198,1,2,Russia,True,Lose
+2018-06-23,Belgium,Tunisia,3,21,1298,909,5,2,Russia,True,Win
+2018-06-23,Korea Republic,Mexico,57,15,543,989,1,2,Russia,True,Lose
+2018-06-24,Japan,Senegal,61,27,520,837,2,2,Russia,True,Draw
+2018-06-25,Spain,Morocco,10,41,1125,685,2,2,Russia,True,Draw
+2018-06-25,IR Iran,Portugal,37,4,708,1273,1,1,Russia,True,Draw
+2018-06-26,Denmark,France,12,7,1051,1198,0,0,Russia,True,Draw
+2018-06-27,Korea Republic,Germany,57,1,543,1558,2,0,Russia,True,Win
+2018-06-27,Serbia,Brazil,34,2,750,1430,0,2,Russia,True,Lose
+2018-06-27,Switzerland,Costa Rica,6,23,1198,884,2,2,Russia,True,Draw
+2018-06-28,Japan,Poland,61,8,520,1182,0,1,Russia,True,Lose
+2018-06-28,England,Belgium,12,3,1050,1298,0,1,Russia,True,Lose
+2018-06-30,France,Argentina,7,5,1198,1241,4,3,Russia,True,Win
+2018-06-30,Uruguay,Portugal,14,4,1018,1273,2,1,Russia,True,Win
+2018-07-01,Croatia,Denmark,12,15,2036,2014,1,1,Russia,True,Draw
+2018-07-02,Brazil,Mexico,4,10,2160,2041,2,0,Russia,True,Win
+2018-07-02,Belgium,Japan,5,41,2124,1816,3,2,Russia,True,Win
+2018-07-06,Uruguay,France,14,2,2017,2164,0,2,Russia,True,Lose
+2018-07-06,Brazil,Belgium,4,5,2160,2124,1,2,Russia,True,Lose
+2018-07-10,France,Belgium,2,5,2164,2124,1,0,Russia,True,Win
+2018-07-11,Croatia,England,12,7,2036,2099,2,1,Russia,True,Win
+2018-07-14,Belgium,England,5,7,2124,2099,2,0,Russia,True,Win
+2018-07-15,France,Croatia,2,12,2164,2036,4,2,Russia,True,Win
+2018-09-06,Germany,France,15,1,1561,1726,0,0,Germany,False,Draw
+2018-09-06,Portugal,Croatia,7,4,1599,1643,1,1,Portugal,False,Draw
+2018-09-07,Korea Republic,Costa Rica,57,32,1387,1471,2,0,Korea Republic,False,Win
+2018-09-07,Mexico,Uruguay,16,5,1560,1627,1,4,USA,True,Lose
+2018-09-07,USA,Brazil,22,3,1508,1657,0,2,USA,False,Lose
+2018-09-08,England,Spain,6,9,1615,1580,1,2,England,False,Lose
+2018-09-09,France,Netherlands,1,17,1726,1540,2,1,France,False,Win
+2018-09-09,Denmark,Wales,9,19,1580,1536,2,0,Denmark,False,Win
+2018-09-11,Spain,Croatia,9,4,1580,1643,6,0,Spain,False,Win
+2018-09-11,England,Switzerland,6,8,1615,1597,1,0,England,False,Win
+2018-09-11,Japan,Costa Rica,55,32,1392,1471,3,0,Japan,False,Win
+2018-09-11,USA,Mexico,22,16,1508,1560,1,0,USA,False,Win
+2018-10-11,Poland,Portugal,18,7,1537,1606,2,3,Poland,False,Lose
+2018-10-11,Mexico,Costa Rica,15,37,1550,1460,3,2,Mexico,False,Win
+2018-10-11,Wales,Spain,19,9,1536,1597,1,4,Wales,False,Lose
+2018-10-12,Belgium,Switzerland,1,8,1729,1598,2,1,Belgium,False,Win
+2018-10-12,Croatia,England,4,6,1634,1612,0,0,Croatia,False,Draw
+2018-10-12,Korea Republic,Uruguay,55,5,1395,1632,2,1,Korea Republic,False,Win
+2018-10-12,Qatar,Ecuador,94,58,1247,1378,4,3,Qatar,False,Win
+2018-10-12,Saudi Arabia,Brazil,71,3,1337,1663,0,2,Saudi Arabia,False,Lose
+2018-10-13,Netherlands,Germany,17,12,1540,1568,3,0,Netherlands,False,Win
+2018-10-15,Spain,England,9,6,1597,1612,2,3,Spain,False,Lose
+2018-10-16,France,Germany,1,12,1729,1568,2,1,France,False,Win
+2018-10-16,Belgium,Netherlands,1,17,1729,1540,1,1,Belgium,False,Draw
+2018-10-16,Japan,Uruguay,54,5,1398,1632,4,3,Japan,False,Win
+2018-10-16,Argentina,Brazil,11,3,1575,1663,0,1,Saudi Arabia,True,Lose
+2018-11-14,Switzerland,Qatar,8,96,1598,1248,0,1,Switzerland,False,Lose
+2018-11-15,Croatia,Spain,4,9,1635,1594,3,2,Croatia,False,Win
+2018-11-15,England,USA,5,23,1619,1506,3,0,England,False,Win
+2018-11-16,Netherlands,France,15,2,1550,1732,2,0,Netherlands,False,Win
+2018-11-16,Wales,Denmark,18,10,1538,1584,1,2,Wales,False,Lose
+2018-11-16,Argentina,Mexico,12,16,1573,1549,2,0,Argentina,False,Win
+2018-11-16,Brazil,Uruguay,3,6,1669,1617,1,0,England,True,Win
+2018-11-16,Morocco,Cameroon,47,51,1422,1408,2,0,Morocco,False,Win
+2018-11-17,Australia,Korea Republic,42,53,1432,1401,1,1,Australia,False,Draw
+2018-11-18,Switzerland,Belgium,8,1,1598,1733,5,2,Switzerland,False,Win
+2018-11-18,England,Croatia,5,4,1619,1635,2,1,England,False,Win
+2018-11-19,Germany,Netherlands,14,15,1555,1550,2,2,Germany,False,Draw
+2018-11-20,Portugal,Poland,7,21,1616,1523,1,1,Portugal,False,Draw
+2018-11-20,Argentina,Mexico,12,16,1573,1549,2,0,Argentina,False,Win
+2018-11-20,Brazil,Cameroon,3,51,1669,1408,1,0,England,True,Win
+2018-11-20,France,Uruguay,2,6,1732,1617,1,0,France,False,Win
+2018-11-20,Tunisia,Morocco,22,47,1515,1422,0,1,Tunisia,False,Lose
+2018-12-31,Korea Republic,Saudi Arabia,53,69,1405,1335,0,0,United Arab Emirates,True,Draw
+2018-12-31,Qatar,IR Iran,93,29,1258,1481,1,2,Qatar,False,Lose
+2019-01-17,Saudi Arabia,Qatar,69,93,1335,1258,0,2,United Arab Emirates,True,Lose
+2019-01-21,Japan,Saudi Arabia,50,69,1414,1335,1,0,United Arab Emirates,True,Win
+2019-01-25,Korea Republic,Qatar,53,93,1405,1258,0,1,United Arab Emirates,True,Lose
+2019-01-28,IR Iran,Japan,29,50,1481,1414,0,3,United Arab Emirates,True,Lose
+2019-02-01,Japan,Qatar,50,93,1414,1258,1,3,United Arab Emirates,True,Lose
+2019-02-02,USA,Costa Rica,25,36,1497,1464,2,0,USA,False,Win
+2019-03-20,Germany,Serbia,16,31,1558,1481,1,1,Germany,False,Draw
+2019-03-21,USA,Ecuador,25,58,1501,1382,1,0,USA,False,Win
+2019-03-24,Netherlands,Germany,14,16,1560,1558,2,3,Netherlands,False,Lose
+2019-03-25,Portugal,Serbia,6,31,1614,1481,1,1,Portugal,False,Draw
+2019-03-26,Morocco,Argentina,43,11,1440,1582,0,1,Morocco,False,Lose
+2019-03-26,Switzerland,Denmark,8,10,1599,1589,3,3,Switzerland,False,Draw
+2019-06-05,Brazil,Qatar,3,55,1676,1398,2,0,Brazil,False,Win
+2019-06-05,Portugal,Switzerland,7,8,1607,1604,3,1,Portugal,False,Win
+2019-06-06,England,Netherlands,4,16,1647,1554,1,3,Portugal,True,Lose
+2019-06-07,Korea Republic,Australia,37,41,1462,1441,1,0,Korea Republic,False,Win
+2019-06-08,Croatia,Wales,5,19,1621,1539,2,1,Croatia,False,Win
+2019-06-09,Mexico,Ecuador,18,59,1549,1378,3,2,USA,True,Win
+2019-06-09,Switzerland,England,8,4,1604,1647,0,0,Portugal,True,Draw
+2019-06-09,Portugal,Netherlands,7,16,1607,1554,1,0,Portugal,False,Win
+2019-06-11,Croatia,Tunisia,5,28,1621,1491,1,2,Croatia,False,Lose
+2019-06-11,Korea Republic,IR Iran,37,21,1462,1516,1,1,Korea Republic,False,Draw
+2019-06-16,Uruguay,Ecuador,8,60,1615,1375,4,0,Brazil,True,Win
+2019-06-19,Mexico,Canada,18,78,1557,1314,3,1,USA,True,Win
+2019-06-20,Uruguay,Japan,8,28,1615,1496,2,2,Brazil,True,Draw
+2019-06-23,Qatar,Argentina,55,11,1396,1582,0,2,Brazil,True,Lose
+2019-06-24,Ecuador,Japan,60,28,1375,1496,1,1,Brazil,True,Draw
+2019-06-29,Cameroon,Ghana,51,50,1404,1423,0,0,Egypt,True,Draw
+2019-06-29,Mexico,Costa Rica,18,39,1557,1453,1,1,USA,True,Draw
+2019-07-02,Brazil,Argentina,3,11,1681,1582,2,0,Brazil,False,Win
+2019-07-07,USA,Mexico,30,18,1495,1557,0,1,USA,False,Lose
+2019-07-08,Ghana,Tunisia,50,25,1423,1501,1,1,Egypt,True,Draw
+2019-07-14,Senegal,Tunisia,22,25,1515,1501,1,0,Egypt,True,Win
+2019-09-06,Costa Rica,Uruguay,44,5,1445,1637,1,2,Costa Rica,False,Lose
+2019-09-06,USA,Mexico,22,12,1548,1604,0,3,USA,False,Lose
+2019-09-06,Germany,Netherlands,15,16,1582,1569,2,4,Germany,False,Lose
+2019-09-07,Serbia,Portugal,35,6,1477,1631,2,4,Serbia,False,Lose
+2019-09-10,Argentina,Mexico,10,12,1610,1604,4,0,USA,True,Win
+2019-09-10,USA,Uruguay,22,5,1548,1637,1,1,USA,False,Draw
+2019-10-09,Germany,Argentina,16,10,1580,1614,2,2,Germany,False,Draw
+2019-10-10,Brazil,Senegal,3,20,1719,1546,1,1,Singapore,True,Draw
+2019-10-12,Denmark,Switzerland,14,11,1584,1604,1,0,Denmark,False,Win
+2019-10-12,Tunisia,Cameroon,29,53,1493,1409,0,0,Tunisia,False,Draw
+2019-10-13,Wales,Croatia,23,8,1522,1625,1,1,Wales,False,Draw
+2019-10-13,Ecuador,Argentina,65,10,1370,1614,1,6,Spain,True,Lose
+2019-10-15,Canada,USA,75,21,1322,1545,2,0,Canada,False,Win
+2019-11-15,Brazil,Argentina,3,9,1715,1617,0,1,Saudi Arabia,True,Lose
+2019-11-15,USA,Canada,23,69,1530,1339,4,1,USA,False,Win
+2019-11-18,Argentina,Uruguay,9,5,1617,1642,2,2,Israel,True,Draw
+2019-11-19,Brazil,Korea Republic,3,39,1715,1466,3,0,United Arab Emirates,True,Win
+2019-12-05,Qatar,Saudi Arabia,55,67,1398,1351,0,1,Qatar,False,Lose
+2019-12-18,Korea Republic,Japan,41,28,1459,1500,1,0,Korea Republic,False,Win
+2020-02-01,USA,Costa Rica,22,46,1540,1442,1,0,USA,False,Win
+2020-09-03,Germany,Spain,15,8,1602,1636,1,1,Germany,False,Draw
+2020-09-04,Netherlands,Poland,14,19,1604,1559,1,0,Netherlands,False,Win
+2020-09-05,Denmark,Belgium,16,1,1598,1765,0,2,Denmark,False,Lose
+2020-09-05,Portugal,Croatia,7,6,1639,1642,4,1,Portugal,False,Win
+2020-09-06,Switzerland,Germany,12,15,1608,1602,1,1,Switzerland,False,Draw
+2020-09-08,Denmark,England,16,4,1598,1661,0,0,Denmark,False,Draw
+2020-09-08,France,Croatia,2,6,1733,1642,4,2,France,False,Win
+2020-10-07,Netherlands,Mexico,13,11,1603,1621,0,1,Netherlands,False,Lose
+2020-10-07,Portugal,Spain,5,7,1653,1642,0,0,Portugal,False,Draw
+2020-10-07,Switzerland,Croatia,15,8,1600,1628,1,2,Switzerland,False,Lose
+2020-10-08,England,Wales,4,21,1664,1550,3,0,England,False,Win
+2020-10-08,Argentina,Ecuador,9,64,1623,1368,1,0,Argentina,False,Win
+2020-10-09,Japan,Cameroon,28,53,1500,1413,0,0,Netherlands,True,Draw
+2020-10-09,Morocco,Senegal,43,20,1456,1555,3,1,Morocco,False,Win
+2020-10-10,Spain,Switzerland,7,15,1642,1600,1,0,Spain,False,Win
+2020-10-11,England,Belgium,4,1,1664,1773,2,1,England,False,Win
+2020-10-11,France,Portugal,2,5,1744,1653,0,0,France,False,Draw
+2020-10-12,Ghana,Qatar,46,55,1439,1396,5,1,Turkey,True,Win
+2020-10-13,Germany,Switzerland,14,15,1602,1600,3,3,Germany,False,Draw
+2020-10-13,Ecuador,Uruguay,64,6,1368,1645,4,2,Ecuador,False,Win
+2020-10-14,England,Denmark,4,16,1664,1593,0,1,England,False,Lose
+2020-10-14,Croatia,France,8,2,1628,1744,1,2,Croatia,False,Lose
+2020-11-11,Belgium,Switzerland,1,16,1765,1589,2,1,Belgium,False,Win
+2020-11-11,Netherlands,Spain,15,6,1596,1639,1,1,Netherlands,False,Draw
+2020-11-12,Wales,USA,20,22,1550,1542,0,0,Wales,False,Draw
+2020-11-13,Costa Rica,Qatar,50,57,1427,1391,1,1,Austria,True,Draw
+2020-11-14,Portugal,France,5,2,1661,1752,0,1,Portugal,False,Lose
+2020-11-14,Switzerland,Spain,16,6,1589,1639,1,1,Switzerland,False,Draw
+2020-11-14,Mexico,Korea Republic,11,38,1625,1464,3,2,Austria,True,Win
+2020-11-15,Belgium,England,1,4,1765,1669,2,0,Belgium,False,Win
+2020-11-17,Croatia,Portugal,9,5,1634,1661,2,3,Croatia,False,Lose
+2020-11-17,Spain,Germany,6,14,1639,1607,6,0,Spain,False,Win
+2020-11-17,Japan,Mexico,27,11,1503,1625,0,2,Austria,True,Lose
+2020-11-17,Korea Republic,Qatar,38,57,1464,1391,2,1,Austria,True,Win
+2020-11-17,Uruguay,Brazil,7,3,1637,1725,0,2,Uruguay,False,Lose
+2020-11-18,Poland,Netherlands,18,15,1568,1596,1,2,Poland,False,Lose
+2020-11-18,Belgium,Denmark,1,13,1765,1610,4,2,Belgium,False,Win
+2021-03-24,Belgium,Wales,1,18,1780,1562,3,1,Belgium,False,Win
+2021-03-25,Japan,Korea Republic,27,38,1502,1465,3,0,Japan,False,Win
+2021-03-27,Wales,Mexico,18,9,1562,1632,1,0,Wales,False,Win
+2021-03-27,Serbia,Portugal,30,5,1492,1662,2,2,Serbia,False,Draw
+2021-03-30,Costa Rica,Mexico,50,9,1427,1632,0,1,Austria,True,Lose
+2021-03-31,England,Poland,4,19,1670,1559,2,1,England,False,Win
+2021-05-30,Switzerland,USA,13,20,1606,1555,2,1,Switzerland,False,Win
+2021-06-02,France,Wales,2,17,1757,1570,3,0,France,False,Win
+2021-06-02,Germany,Denmark,12,10,1609,1631,1,1,Austria,True,Draw
+2021-06-03,Mexico,Costa Rica,11,50,1629,1423,0,0,USA,True,Draw
+2021-06-04,Spain,Portugal,6,5,1648,1666,0,0,Spain,False,Draw
+2021-06-04,Brazil,Ecuador,3,53,1742,1413,2,0,Brazil,False,Win
+2021-06-06,Belgium,Croatia,1,14,1783,1605,1,0,Belgium,False,Win
+2021-06-06,USA,Mexico,20,11,1555,1629,3,2,USA,False,Win
+2021-06-08,Morocco,Ghana,34,49,1479,1425,1,0,Morocco,False,Win
+2021-06-09,USA,Costa Rica,20,50,1555,1423,4,0,USA,False,Win
+2021-06-11,Japan,Serbia,28,25,1509,1512,1,0,Japan,False,Win
+2021-06-12,Wales,Switzerland,17,13,1570,1606,1,1,Wales,False,Draw
+2021-06-13,England,Croatia,4,14,1686,1605,1,0,England,False,Win
+2021-06-15,Germany,France,12,2,1609,1757,0,1,Germany,False,Lose
+2021-06-17,Denmark,Belgium,10,1,1631,1783,1,2,Denmark,False,Lose
+2021-06-18,Argentina,Uruguay,8,9,1641,1639,1,0,Brazil,True,Win
+2021-06-19,Spain,Poland,6,21,1648,1549,1,1,Spain,False,Draw
+2021-06-19,Germany,Portugal,12,5,1609,1666,4,2,Germany,False,Win
+2021-06-23,Portugal,France,5,2,1666,1757,2,2,Hungary,True,Draw
+2021-06-26,Wales,Denmark,17,10,1570,1631,0,4,Netherlands,True,Lose
+2021-06-27,Belgium,Portugal,1,5,1783,1666,1,0,Spain,True,Win
+2021-06-27,Brazil,Ecuador,3,53,1742,1413,1,1,Brazil,False,Draw
+2021-06-28,Croatia,Spain,14,6,1605,1648,3,5,Denmark,True,Lose
+2021-06-28,France,Switzerland,2,13,1757,1606,3,3,Romania,True,Draw
+2021-06-29,England,Germany,4,12,1686,1609,2,0,England,False,Win
+2021-07-02,Switzerland,Spain,13,6,1606,1648,1,1,Russia,True,Draw
+2021-07-03,Argentina,Ecuador,8,53,1641,1413,3,0,Brazil,True,Win
+2021-07-07,England,Denmark,4,10,1686,1631,2,1,England,False,Win
+2021-07-10,Brazil,Argentina,3,8,1742,1641,0,1,Brazil,False,Lose
+2021-07-18,USA,Canada,20,70,1555,1340,1,0,USA,False,Win
+2021-07-25,Costa Rica,Canada,50,70,1423,1340,0,2,USA,True,Lose
+2021-07-29,Mexico,Canada,11,70,1629,1340,2,1,USA,True,Win
+2021-07-29,USA,Qatar,20,58,1555,1397,1,0,USA,False,Win
+2021-08-01,USA,Mexico,20,11,1555,1629,1,0,USA,False,Win
+2021-09-01,Qatar,Serbia,42,29,1455,1507,0,4,Hungary,True,Lose
+2021-09-04,Qatar,Portugal,42,8,1455,1661,1,3,Hungary,True,Lose
+2021-09-05,Costa Rica,Mexico,44,9,1449,1658,0,1,Costa Rica,False,Lose
+2021-09-05,USA,Canada,10,59,1647,1399,1,1,USA,False,Draw
+2021-09-08,Poland,England,27,4,1516,1752,1,1,Poland,False,Draw
+2021-09-09,Uruguay,Ecuador,13,55,1634,1405,1,0,Uruguay,False,Win
+2021-10-07,Saudi Arabia,Japan,56,26,1406,1520,1,0,Saudi Arabia,False,Win
+2021-10-07,Mexico,Canada,9,51,1666,1416,1,1,Mexico,False,Draw
+2021-10-07,Belgium,France,1,4,1832,1754,2,3,Italy,True,Lose
+2021-10-09,Portugal,Qatar,7,43,1674,1445,3,0,Portugal,False,Win
+2021-10-10,Argentina,Uruguay,6,12,1725,1645,3,0,Argentina,False,Win
+2021-10-10,Spain,France,8,4,1673,1754,1,2,Italy,True,Lose
+2021-10-12,IR Iran,Korea Republic,22,36,1538,1479,1,1,IR Iran,False,Draw
+2021-10-12,Japan,Australia,26,32,1520,1493,2,1,Japan,False,Win
+2021-10-13,USA,Costa Rica,13,44,1643,1438,2,1,USA,False,Win
+2021-10-14,Brazil,Uruguay,2,12,1811,1645,4,1,Brazil,False,Win
+2021-10-27,Mexico,Ecuador,9,55,1672,1416,2,3,USA,True,Lose
+2021-11-11,Serbia,Qatar,25,46,1527,1437,4,0,Serbia,False,Win
+2021-11-11,Australia,Saudi Arabia,34,49,1489,1432,0,0,Australia,False,Draw
+2021-11-12,Canada,Costa Rica,48,45,1432,1439,1,0,Canada,False,Win
+2021-11-12,USA,Mexico,13,9,1639,1672,2,0,USA,False,Win
+2021-11-12,Uruguay,Argentina,15,6,1625,1738,0,1,Uruguay,False,Lose
+2021-11-14,Portugal,Serbia,8,25,1681,1527,1,2,Portugal,False,Lose
+2021-11-16,Canada,Mexico,48,9,1432,1672,2,1,Canada,False,Win
+2021-11-16,Wales,Belgium,19,1,1566,1832,1,1,Wales,False,Draw
+2021-11-16,Argentina,Brazil,6,2,1738,1820,0,0,Argentina,False,Draw
+2021-12-07,Morocco,Saudi Arabia,28,48,1525,1441,1,0,Qatar,True,Win
+2022-01-10,Morocco,Ghana,28,52,1529,1428,1,0,Cameroon,True,Win
+2022-01-27,Ecuador,Brazil,46,2,1448,1826,1,1,Ecuador,False,Draw
+2022-01-30,Canada,USA,40,11,1462,1648,2,0,Canada,False,Win
+2022-01-30,Mexico,Costa Rica,14,49,1638,1437,0,0,Mexico,False,Draw
+2022-02-01,Japan,Saudi Arabia,26,51,1531,1434,2,0,Japan,False,Win
+2022-03-24,Mexico,USA,12,13,1647,1643,0,0,Mexico,False,Draw
+2022-03-24,Costa Rica,Canada,42,33,1464,1497,1,0,Costa Rica,False,Win
+2022-03-24,Korea Republic,IR Iran,29,21,1522,1572,2,0,Korea Republic,False,Win
+2022-03-24,Australia,Japan,37,23,1486,1549,0,2,Australia,False,Lose
+2022-03-26,England,Switzerland,5,14,1755,1642,2,1,England,False,Win
+2022-03-26,Netherlands,Denmark,10,9,1653,1654,4,2,Netherlands,False,Win
+2022-03-29,Saudi Arabia,Australia,53,37,1433,1486,1,0,Saudi Arabia,False,Win
+2022-03-29,Ecuador,Argentina,44,4,1458,1766,1,1,Ecuador,False,Draw
+2022-03-29,Denmark,Serbia,9,25,1654,1547,3,0,Denmark,False,Win
+2022-03-29,Netherlands,Germany,10,11,1653,1648,1,1,Netherlands,False,Draw
+2022-03-30,Costa Rica,USA,42,13,1464,1643,2,0,Costa Rica,False,Win
+2022-06-01,Poland,Wales,26,18,1544,1588,2,1,Poland,False,Win
+2022-06-01,USA,Morocco,15,24,1633,1551,3,0,USA,False,Win
+2022-06-02,Spain,Portugal,7,8,1709,1674,1,1,Spain,False,Draw
+2022-06-02,Korea Republic,Brazil,29,1,1519,1832,1,5,Korea Republic,False,Lose
+2022-06-02,Mexico,Uruguay,9,13,1658,1635,0,3,USA,True,Lose
+2022-06-03,France,Denmark,3,11,1789,1653,1,2,France,False,Lose
+2022-06-03,Belgium,Netherlands,2,10,1827,1658,1,4,Belgium,False,Lose
+2022-06-05,Portugal,Switzerland,8,14,1674,1635,4,0,Portugal,False,Win
+2022-06-05,Mexico,Ecuador,9,46,1658,1452,0,0,USA,True,Draw
+2022-06-05,USA,Uruguay,15,13,1633,1635,0,0,USA,False,Draw
+2022-06-06,Croatia,France,16,3,1621,1789,1,1,Croatia,False,Draw
+2022-06-06,Japan,Brazil,23,1,1553,1832,0,1,Japan,False,Lose
+2022-06-07,Germany,England,12,5,1650,1761,1,1,Germany,False,Draw
+2022-06-08,Wales,Netherlands,18,10,1588,1658,1,2,Wales,False,Lose
+2022-06-08,Belgium,Poland,2,26,1827,1544,6,1,Belgium,False,Win
+2022-06-09,Switzerland,Spain,14,7,1635,1709,0,1,Switzerland,False,Lose
+2022-06-10,Denmark,Croatia,11,16,1653,1621,0,1,Denmark,False,Lose
+2022-06-10,Japan,Ghana,23,60,1553,1387,4,1,Japan,False,Win
+2022-06-11,Wales,Belgium,18,2,1588,1827,1,1,Wales,False,Draw
+2022-06-11,Netherlands,Poland,10,26,1658,1544,2,2,Netherlands,False,Draw
+2022-06-12,Switzerland,Portugal,14,8,1635,1674,1,0,Switzerland,False,Win
+2022-06-13,France,Croatia,3,16,1789,1621,0,1,France,False,Lose
+2022-06-14,Netherlands,Wales,10,18,1658,1588,3,2,Netherlands,False,Win
+2022-06-14,Poland,Belgium,26,2,1544,1827,0,1,Poland,False,Lose
+2022-06-14,Japan,Tunisia,23,35,1553,1499,0,3,Japan,False,Lose
