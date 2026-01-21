@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # import sklearn as skl
 from sklearn.linear_model import LinearRegression 
 
-datamodel = pd.read_excel("DataModel1.xls", header = None)
+datamodel = pd.read_excel("functions/DataModel1.xls", header = None)
 
 print(datamodel)
 
@@ -43,6 +43,7 @@ u, v = np.linalg.solve(A, B)
 print(u, v)
 
 a = np.sqrt(1/u)
+b = np.sqrt(1/v)
 print(a[0])
 
 # Решение с помощью модели и обучения
@@ -57,5 +58,36 @@ model.fit(X_feat, target)
 print(model.coef_)
 
 a = np.sqrt(1/model.coef_[0])
+b = np.sqrt(1/model.coef_[1])
 
 print(a)
+
+# построим получившуюся модель
+
+xg = np.linspace(-300, 300, 1000)
+
+# x**2 / a**2 + y**2 / b**2 = 1
+# y**2 / b**2 = 1 - x**2 / a**2
+# y**2 = b**2 - b**2 * x**2 / a**2
+# y = sqrt(b**2 - b**2 * x**2 / a**2)
+
+b *= b
+a *= a
+
+yg = []
+for i in range(0, len(xg)):
+    yg.append(np.sqrt(b - b * xg[i]**2 / a))
+
+# print(len(xg))
+# print(xg)
+# print(len(yg))
+# print(yg)
+
+plt.figure(figsize=(8, 6)) # задаем размер окна
+plt.scatter(xg, yg, s=1, c = 'green') # s - размер точки, c - цвет
+plt.scatter(xarr, yarr, s=1, c='blue') # s - размер точки, c - цвет
+plt.title("Орбита небесного тела")
+plt.xlabel("Координата X")
+plt.ylabel("Координата Y")
+plt.axis('equal') # Важно! Чтобы круги не превращались в овалы из-за масштаба осей
+plt.show()
