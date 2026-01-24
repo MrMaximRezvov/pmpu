@@ -64,7 +64,7 @@ print(a)
 
 # построим получившуюся модель
 
-xg = np.linspace(-300, 300, 1000)
+xg = np.linspace(-350, 350, 10000)
 
 # x**2 / a**2 + y**2 / b**2 = 1
 # y**2 / b**2 = 1 - x**2 / a**2
@@ -76,7 +76,10 @@ a *= a
 
 yg = []
 for i in range(0, len(xg)):
-    yg.append(np.sqrt(b - b * xg[i]**2 / a))
+     if(i & 1 == 1):
+          yg.append(np.sqrt(b - b * xg[i]**2 / a))
+     else:
+          yg.append(-np.sqrt(b - b * xg[i]**2 / a))
 
 # print(len(xg))
 # print(xg)
@@ -84,7 +87,7 @@ for i in range(0, len(xg)):
 # print(yg)
 
 plt.figure(figsize=(8, 6)) # задаем размер окна
-plt.scatter(xg, yg, s=1, c = 'green') # s - размер точки, c - цвет
+plt.scatter(xg, yg, s=1, c = 'green', linestyle='-') # s - размер точки, c - цвет
 plt.scatter(xarr, yarr, s=1, c='blue') # s - размер точки, c - цвет
 plt.title("Орбита небесного тела")
 plt.xlabel("Координата X")
