@@ -26,7 +26,7 @@ def localMax(data):
 def calculateAns(localMax):
     ans = 0
     for i in range(len(localMax)):
-        if(len(localMax[i]) == 1):
+        if((len(localMax[i]) == 1) and (10 <= localMax[i][0] <= 50)):
             ans+=1
     return ans
 
