@@ -64,6 +64,35 @@ print(a)
 
 # построим получившуюся модель
 
+# xg = np.linspace(-350, 350, 10000)
+
+# x**2 / a**2 + y**2 / b**2 = 1
+# y**2 / b**2 = 1 - x**2 / a**2
+# y**2 = b**2 - b**2 * x**2 / a**2
+# y = sqrt(b**2 - b**2 * x**2 / a**2)
+
+
+
+
+# yg = []
+# for i in range(0, len(xg), 2):
+# xgpred = [[xg[0]], xg[1]]
+# yg.append(model.predict(xgpred))
+
+# print(len(xg))
+# print(xg)
+# print(len(yg))
+# print(yg)
+
+# plt.figure(figsize=(8, 6)) # задаем размер окна
+# plt.scatter(xgpred, yg, s=1, c = 'green', linestyle='-') # s - размер точки, c - цвет
+# plt.scatter(xarr, yarr, s=1, c='blue') # s - размер точки, c - цвет
+# plt.title("Орбита небесного тела")
+# plt.xlabel("Координата X")
+# plt.ylabel("Координата Y")
+# plt.axis('equal') # Важно! Чтобы круги не превращались в овалы из-за масштаба осей
+# plt.show()
+
 xg = np.linspace(-350, 350, 10000)
 
 # x**2 / a**2 + y**2 / b**2 = 1
