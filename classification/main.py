@@ -23,17 +23,20 @@ def localMax(data):
         
     return localMax
 
-def calculateAns(localMax):
+def calculateAns(localMax, data):
     ans = 0
     for i in range(len(localMax)):
         if((len(localMax[i]) == 1) and (10 <= localMax[i][0] <= 50)):
-            ans+=1
+            # ans+=1
+            f = False
+            d = np.diff(data[i])
+            print(d)
     return ans
 
 def main():
     data = loadData()
     localMaxs = localMax(data)
-    answer = calculateAns(localMaxs)
+    answer = calculateAns(localMaxs, data)
     print(answer)
 
 if __name__ == '__main__':

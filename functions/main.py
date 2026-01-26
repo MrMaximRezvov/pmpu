@@ -49,8 +49,10 @@ print(a[0])
 # Решение с помощью модели и обучения
 
 X_feat = np.column_stack([x**2, y**2])
+# print(X_feat)
 
 target = np.ones(len(x))
+# print(target)
 
 model = LinearRegression(fit_intercept=False)
 model.fit(X_feat, target)
@@ -105,10 +107,10 @@ a *= a
 
 yg = []
 for i in range(0, len(xg)):
-     if(i & 1 == 1):
-          yg.append(np.sqrt(b - b * xg[i]**2 / a))
-     else:
-          yg.append(-np.sqrt(b - b * xg[i]**2 / a))
+     # if(i & 1 == 1):
+     yg.append(np.sqrt(b - b * xg[i]**2 / a))
+     # else:
+          # yg.append(-np.sqrt(b - b * xg[i]**2 / a))
 
 # print(len(xg))
 # print(xg)
@@ -116,7 +118,7 @@ for i in range(0, len(xg)):
 # print(yg)
 
 plt.figure(figsize=(8, 6)) # задаем размер окна
-plt.scatter(xg, yg, s=1, c = 'green', linestyle='-') # s - размер точки, c - цвет
+plt.plot(xg, yg, c = 'green', linestyle='-') # s - размер точки, c - цвет
 plt.scatter(xarr, yarr, s=1, c='blue') # s - размер точки, c - цвет
 plt.title("Орбита небесного тела")
 plt.xlabel("Координата X")
